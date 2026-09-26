@@ -19,4 +19,13 @@ document.addEventListener('change',e=>{if(e.target.id==='interval-selection'){hi
 document.addEventListener('visibilitychange',()=>{if(document.hidden){pauseInterval();if(state.page==='hiit')render();}});
 setInterval(()=>{if(state.page!=='hiit'){pauseInterval();return;}paintInterval();},200);
 document.querySelector('#reset').addEventListener('click',()=>{hiit.run=null;render();});
-labels.hiit='HIIT';render();
+labels.hiit='HIIT';
+// Keep the existing button node so its reset listeners survive screen renders.
+const resetPreviewButton=document.querySelector('#reset');
+const renderBeforeResetPlacement=render;
+render=function(){
+ renderBeforeResetPlacement();
+ const premiumSelector=document.querySelector('#steps [data-go="premium"]');
+ if(premiumSelector)premiumSelector.after(resetPreviewButton);
+};
+render();
