@@ -6,6 +6,8 @@ Repository: https://github.com/RyanC786/Fight-Hub-App
 
 Status: discovery and planning. No implementation stack, price, budget or launch date has been agreed.
 
+Related planning: [Screens and first-week member journey](docs/MEMBER-JOURNEY.md). This expands the proposed experience; it does not mark features as built or all design choices as approved.
+
 ## 1. Vision
 
 Build an international combat-sports platform combining sports discovery and coverage with a personal home and gym fitness companion. Help members get fitter, build strength and muscle, and improve general conditioning while following their favourite sports.
@@ -71,6 +73,8 @@ Surface relevant news, fighters and events from the existing platform after inte
 
 Keep basic training history accessible to free members. Pricing, trials, billing intervals and exact feature boundaries are undecided. Paid value should come from useful ongoing planning and progress support, not simply more articles.
 
+Journey-design refinement: basic session movement and supported alternatives within a free programme should remain free usability features. Paid planning and equipment features refer to broader programme options and richer planning capabilities, subject to validation.
+
 ## 6. Training and nutrition content approach
 
 This is a proposed product boundary, not a claim that programmes have been validated. Start with sourced, authored, versioned general-fitness content and explicit progression rules. Define an exercise/content review process before releasing training guidance. Lack of current coach access is an unresolved content dependency.
@@ -124,4 +128,5 @@ Keep this plan current as decisions are made. Record proposals separately from c
 
 - 2026-09-26: Owner confirmed international reach, 18+, home/gym training, combined fitness/strength/conditioning goals and free-to-paid revenue model.
 - 2026-09-26: Owner supplied the Fight-Hub-App GitHub repository and requested that planning and created work be saved and pushed throughout development.
-- Next planning deliverable: a screen-by-screen member journey from first visit through the first completed week.
+- 2026-09-26: Owner authorised continuing with the screen-by-screen member journey. The proposed design is recorded in [MEMBER-JOURNEY.md](docs/MEMBER-JOURNEY.md), including distinct fan/training paths and the first completed week.
+- Next planning deliverable: low-fidelity layouts of the core screens, with sample content explicitly labelled. Existing-platform inspection and training-content sourcing/review remain open dependencies.
