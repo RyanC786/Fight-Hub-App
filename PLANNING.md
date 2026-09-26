@@ -1,0 +1,127 @@
+# Fight Hub App — Product Plan
+
+Updated: 2026-09-26
+
+Repository: https://github.com/RyanC786/Fight-Hub-App
+
+Status: discovery and planning. No implementation stack, price, budget or launch date has been agreed.
+
+## 1. Vision
+
+Build an international combat-sports platform combining sports discovery and coverage with a personal home and gym fitness companion. Help members get fitter, build strength and muscle, and improve general conditioning while following their favourite sports.
+
+Proposed positioning: **Follow your sport. Build your fitness. See your progress.**
+
+## 2. Confirmed owner decisions
+
+- Serve an international audience aged 18 and over.
+- Cover beginners, recreational trainees, competitors and fans; personalise the experience to their interests rather than show everyone the same home screen.
+- Cover contact sports and martial arts broadly, including boxing, MMA and Muay Thai.
+- Start with a mobile-first web experience intended to be installable on Android and Apple phones; validate platform capabilities before promising native-app features.
+- Start training functionality with home fitness and gym workouts.
+- Support getting fitter, building strength and muscle, and conditioning for combat sports.
+- Make repeat use valuable through plans, progress tracking and motivation; explore meals and rewards.
+- Build a revenue-generating business with free and paid membership.
+- No coaches are currently available to create or review programmes.
+- No fixed budget or deadline has been supplied. Define scope and dependencies before estimating.
+- Save plans and created project work to this repository and push updates as work progresses.
+
+The 18+ restriction is a product choice, not a consequence of accepting card payments.
+
+## 3. Existing platform — owner-reported, not yet inspected
+
+The Fight Hub website is currently hosted locally and is intended to use FightHub.world. It includes sport information, fighter profiles and histories, news, blogs, events and calendars across combat sports. An AI agent searches for and updates content regularly.
+
+Access, technology, database structure, content quality, source rights and integration options remain unverified. Inspect these before deciding whether to extend the current platform or introduce a separate application.
+
+## 4. Proposed first-release experience
+
+### Personal setup
+
+Collect sports of interest, primary fitness goal and secondary goals, experience, home/gym setting, equipment, available days and preferred session length. Allow multiple interests while producing one coherent schedule rather than stacking separate programmes.
+
+### My Fight Hub / Today
+
+Show today's session or recovery day, the next action, recent progress and relevant sports content. Fans should be able to prioritise coverage without completing training setup.
+
+### Weekly training plan
+
+Combine general strength, cardio, mobility and recovery within authored programmes. Support scheduling and suitable equipment alternatives. Programme depth can expand in stages while editorial coverage remains broad.
+
+### Workout experience
+
+Provide exercise instructions, sets, repetitions and timers where appropriate. Log completion, weights/repetitions and perceived difficulty quickly. Automatically retain completed in-app sessions; do not imply that physical activity is automatically detected.
+
+### Progress and motivation
+
+Show history, weekly consistency and personal performance milestones. Use flexible targets, optional reminders and an encouraging restart after missed sessions. Recovery days count as following the plan. Avoid incentives that reward excessive exercise.
+
+### Sports content
+
+Surface relevant news, fighters and events from the existing platform after integration feasibility and content provenance are checked.
+
+## 5. Proposed free and paid tiers — to validate
+
+| Free | Paid |
+| --- | --- |
+| News, events and sport guides | Wider structured programme library |
+| Starter fitness programme | More flexible planning and scheduling |
+| Basic workout logging and history | Equipment-based alternatives |
+| Basic progress and milestones | Deeper progress insights |
+
+Keep basic training history accessible to free members. Pricing, trials, billing intervals and exact feature boundaries are undecided. Paid value should come from useful ongoing planning and progress support, not simply more articles.
+
+## 6. Training and nutrition content approach
+
+This is a proposed product boundary, not a claim that programmes have been validated. Start with sourced, authored, versioned general-fitness content and explicit progression rules. Define an exercise/content review process before releasing training guidance. Lack of current coach access is an unresolved content dependency.
+
+Keep sport-specific technique coaching, sparring preparation, fight camps, rehabilitation and weight-cutting guidance outside the initial training offer. Do not claim general fitness programmes make members fight-ready. Avoid unconstrained AI-generated individual workouts in the first release.
+
+Consider simple meal inspiration and planning later. Individual nutrition prescriptions are not part of the proposed first release. Establish appropriate expertise and review before expanding guidance.
+
+## 7. Later candidates — not launch commitments
+
+- Meal inspiration, preferences and meal-planning tools.
+- Optional participation challenges and additional rewards.
+- Wearable and phone-health integrations, subject to web/native feasibility.
+- More advanced programme adjustments supported by validated rules and review.
+- Additional languages; English first is a recommendation awaiting explicit confirmation.
+- Deeper sport-specific programmes with suitable expert input.
+- Native applications if demonstrated member needs justify them.
+
+## 8. Delivery stages
+
+1. Inspect the current Fight Hub site, code and content pipeline; identify reusable components and integration constraints.
+2. Map onboarding through the first completed training week; define screens, programme sourcing, data requirements and membership boundaries.
+3. Prototype the mobile experience and validate it with representative fans and trainees.
+4. Build the agreed first-release scope, including accounts, planning, logging, progress, content integration and membership.
+5. Verify key journeys on Android and iPhone browsers, installation behaviour, accessibility, data handling and payment flows before a controlled release.
+6. Measure retention and paid value, then prioritise expansion from evidence.
+
+## 9. Proposed readiness and success measures
+
+Before launch, a member should be able to set up an account, find appropriate content, receive a coherent plan, complete and log a session, view retained progress, and manage membership. Define and test reminder preferences, local dates/time zones, units, account deletion and subscription cancellation. Training content sourcing and review must be resolved.
+
+Candidate measures: setup completion, first workout completion, return rate in subsequent weeks, planned sessions completed, free-to-paid conversion and paid retention. Targets are not yet set. Daily use should not imply daily training.
+
+## 10. Open decisions
+
+- English-first launch confirmation and later localisation priorities.
+- Existing platform architecture, repository access and API reuse.
+- Programme authorship, evidence sources, licensing and qualified review.
+- Initial programme catalogue and supported equipment.
+- Exact free/paid boundaries, pricing and payment provider.
+- Notification and offline requirements, and platform limitations.
+- Hosting, database, AI/content service costs and maintenance budget.
+- International payment availability, privacy requirements and launch readiness checks.
+- Whether tracking integrations justify a native application later.
+
+## 11. Repository working agreement
+
+Keep this plan current as decisions are made. Record proposals separately from confirmed decisions. Commit and push task-related plans, source code and assets at meaningful milestones. Preserve existing work and never force-push without explicit authorisation. Keep secrets, credentials, local environment files and private member data out of Git. Report push failures honestly; local changes are not published until the remote update is verified.
+
+## 12. Decision log
+
+- 2026-09-26: Owner confirmed international reach, 18+, home/gym training, combined fitness/strength/conditioning goals and free-to-paid revenue model.
+- 2026-09-26: Owner supplied the Fight-Hub-App GitHub repository and requested that planning and created work be saved and pushed throughout development.
+- Next planning deliverable: a screen-by-screen member journey from first visit through the first completed week.
