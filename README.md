@@ -11,6 +11,8 @@ Planning repository for an international, adults-only combat-sports and fitness 
 
 Open [the mobile preview](prototype/index.html) in a browser to explore setup, Today, the weekly plan, a sample workout and the weekly review. See [layout notes and limitations](docs/LAYOUT-NOTES.md).
 
+The expanded **Train** area includes 42 exercise entries, 12 draft sessions, filters, a custom builder, local workout history and a premium demo. See [training features, content boundaries and checks](docs/TRAINING-PROTOTYPE.md). Keep the whole `prototype` folder together; its HTML loads local stylesheets, scripts and the logo.
+
 The project is in discovery and planning with a standalone interface prototype. These documents distinguish confirmed decisions from proposals. No production application, production integrations, validated training programmes or launch date are established yet.
 
 Keep planning documents current and commit/push project work at meaningful milestones. Do not commit credentials or private member data.

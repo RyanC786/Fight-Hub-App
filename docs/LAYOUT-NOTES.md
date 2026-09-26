@@ -2,6 +2,8 @@
 
 Status: interactive planning prototype, not the production app.
 
+The later [training expansion](TRAINING-PROTOTYPE.md) supersedes the initial workout placeholders and memory-only persistence description below. Saved training history and favourites now persist locally; active drafts and membership demo access do not. Earlier sections record the original layout milestone.
+
 Open [prototype/index.html](../prototype/index.html) in a browser. It uses a companion glass.css stylesheet, with no external libraries, fonts, tracking or account connection. State lasts only while the page is open. Reset preview clears it.
 
 ## Design direction
