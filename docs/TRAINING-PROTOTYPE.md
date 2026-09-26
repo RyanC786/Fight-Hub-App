@@ -28,8 +28,8 @@ Entries are editorial drafts with short movement descriptions. Session templates
 
 Reference resources inspected during planning:
 
-- [ACE exercise library](https://www.acefitness.org/resources/everyone/exercise-library/) — reference for browsing by body area, equipment and experience.
-- [NHS strength exercises](https://www.nhs.uk/live-well/exercise/strength-exercises/) — general public exercise reference.
+- [ACE exercise library](https://www.acefitness.org/resources/everyone/exercise-library/) â€” reference for browsing by body area, equipment and experience.
+- [NHS strength exercises](https://www.nhs.uk/live-well/exercise/strength-exercises/) â€” general public exercise reference.
 
 These references do not validate this catalogue, grant content licences or replace qualified review. Descriptions are original; no reference-provider videos, illustrations or programme text were copied. Each production exercise still needs technique guidance, reviewed demonstrations, alternatives, source/version records and review sign-off. Combat technique, injury rehabilitation, fight camps and weight cutting remain outside scope.
 
@@ -45,7 +45,7 @@ Planned, not implemented: reviewed multi-week programmes, richer scheduling, com
 
 Run `node --test prototype/training-data.test.cjs`. Checks cover catalogue uniqueness, all template references, combined filters, empty favourites and script syntax.
 
-Browser walkthrough verified search → exercise details → builder → session log; free and premium-template routing; enabling demo access; saving entered sets/repetitions; complete versus partial history; persistence after reload; and clearing agent-created test logs. An input-event bug found during the walkthrough was fixed and entered values were rechecked. The training home was visually inspected with fixed navigation.
+Browser walkthrough verified search â†’ exercise details â†’ builder â†’ session log; free and premium-template routing; enabling demo access; saving entered sets/repetitions; complete versus partial history; persistence after reload; and clearing agent-created test logs. An input-event bug found during the walkthrough was fixed and entered values were rechecked. The training home was visually inspected with fixed navigation.
 
 Remaining: real-device tests, full keyboard/accessibility audit, failure/storage edge cases and production content validation. No production backend or purchase flow was tested because none exists.
 
@@ -63,10 +63,18 @@ Do not add automatic exercise progression, nutrition prescriptions or fight-read
 
 Added 30 entries covering burpees, star jumps/jumping jacks, high knees, tuck jumps, no-jump variations, lunges, floor exercises and household resistance. Five new free selections cover living-room cardio, bodyweight training, household resistance, jumping options and floor-based control.
 
-The Home basics filter selects bodyweight/no-equipment, chair, wall, band, backpack and bottle entries. It is not an exhaustive filter for a fully equipped home gym. The separate No jumping filter describes impact mechanics, not exercise difficulty or medical suitability. Every jumping entry links to a non-jumping alternative. Advanced tuck jumps and burpees are labelled; neither is a beginner default. �Knee jumps� was interpreted as tuck jumps, with high knees also provided.
+The Home basics filter selects bodyweight/no-equipment, chair, wall, band, backpack and bottle entries. It is not an exhaustive filter for a fully equipped home gym. The separate No jumping filter describes impact mechanics, not exercise difficulty or medical suitability. Every jumping entry links to a non-jumping alternative. Advanced tuck jumps and burpees are labelled; neither is a beginner default. “Knee jumps” was interpreted as tuck jumps, with high knees also provided.
 
 Household resistance uses manageable, securely closed backpacks and sealed non-glass bottles. Support is stable and clear; no door-hung towel rows, furniture jumps or intentionally slippery-floor drills are suggested. These additions remain original editorial drafts requiring review, without prescribed repetitions, duration or load.
 
 Additional references inspected: [NHS home workouts](https://www.nhs.uk/better-health/get-active/home-workout-videos/) and [NASM exercise library](https://www.nasm.org/workout-exercise-guidance). These do not validate the catalogue or its draft selections.
 
 Verification: four Node tests passed, including home/no-jumping intersections and alternative integrity. Browser checks verified home filtering, the no-jumping burpee result and the burpee detail link to its alternative.
+
+## HIIT interval preview
+
+Added adjustable work/recovery intervals (5–180 seconds), 1–10 rounds, no-jumping and jumping selections, and a custom-builder selection. These are interface limits and demo settings, not exercise prescriptions. The timer uses elapsed monotonic time, supports pause/resume, and pauses when hidden or when leaving the screen. No extra recovery follows the final work interval. Refresh clears timer state; completion does not automatically log exercise. Warm-up/cool-down are separate, as noted on screen.
+
+HIIT concerns intensity and recovery, not simply jumping or running a timer. Reference: [ACSM HIIT discussion](https://acsm.org/high-intensity-interval-training-fitness/). These draft selections are not validated programmes.
+
+Seven Node tests passed, including timing boundaries, duration and invalid settings. Browser checks confirmed timer start and pause. Run `node --test prototype/interval-model.test.cjs prototype/training-data.test.cjs`.

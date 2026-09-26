@@ -136,3 +136,5 @@ Keep this plan current as decisions are made. Record proposals separately from c
 - 2026-09-26: Owner requested deeper training selection and premium functionality. Expanded the prototype with 42 draft exercise entries, 12 session selections, body/equipment filters, a session builder, local logs and premium demo access. See [training scope and validation](docs/TRAINING-PROTOTYPE.md). Production programmes, accounts, dated scheduling and billing remain unimplemented.
 
 - 2026-09-26: Expanded home training by 30 draft exercises and five free selections, bringing the catalogue to 72 exercises and 17 selections. Added household equipment and no-jumping filters plus alternatives for jumping movements.
+
+- Added a HIIT interval timer preview: adjustable work/recovery, rounds, movement selections and pause/resume. Demo settings are not personalised prescriptions.
