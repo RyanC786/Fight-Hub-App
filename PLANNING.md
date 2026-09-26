@@ -129,4 +129,5 @@ Keep this plan current as decisions are made. Record proposals separately from c
 - 2026-09-26: Owner confirmed international reach, 18+, home/gym training, combined fitness/strength/conditioning goals and free-to-paid revenue model.
 - 2026-09-26: Owner supplied the Fight-Hub-App GitHub repository and requested that planning and created work be saved and pushed throughout development.
 - 2026-09-26: Owner authorised continuing with the screen-by-screen member journey. The proposed design is recorded in [MEMBER-JOURNEY.md](docs/MEMBER-JOURNEY.md), including distinct fan/training paths and the first completed week.
-- Next planning deliverable: low-fidelity layouts of the core screens, with sample content explicitly labelled. Existing-platform inspection and training-content sourcing/review remain open dependencies.
+- 2026-09-26: Added a [clickable mobile layout preview](prototype/index.html) and [design notes](docs/LAYOUT-NOTES.md). All content and state are demonstration-only; no production services are connected.
+- Next: review the layouts and inspect the existing website before selecting the implementation stack. Existing-platform inspection and training-content sourcing/review remain open dependencies.
