@@ -1,0 +1,4 @@
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),m=require('./guided-model.js');
+test('selection respects equipment and focus',()=>{assert.deepEqual(m.match({focus:'Legs',equipment:[]}),[]);assert.deepEqual(m.match({focus:'Shoulders',equipment:[]}),['shoulder-roll']);assert.ok(!m.match({focus:'Upper body',equipment:['Water bottles','Dumbbells']}).includes('bottle-curl'));});
+test('week dates cross month boundaries and remain local date strings',()=>{assert.deepEqual(m.dates('2026-09-28',[1,3,5]),['2026-09-28','2026-09-30','2026-10-02']);assert.equal(m.dates('2026-09-28',[]).length,0);});
+test('every guided movement has a diagram and readable steps',()=>{for(const [id,v] of Object.entries(m.movements)){assert.ok(fs.existsSync(`${__dirname}/assets/movements/${id}.svg`));assert.ok(v.steps.length>=2);}new Function(fs.readFileSync(`${__dirname}/guided.js`,'utf8'));});

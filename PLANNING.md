@@ -1,5 +1,7 @@
 # Fight Hub App — Product Plan
 
+Latest shift: guided planning now leads the prototype, with equipment/body-focus matching, a dated seven-day schedule and eight draft movement diagrams. [Guided-training notes](docs/GUIDED-TRAINING.md) distinguish implemented interactions from the still-unreviewed programme content. Goal, time and experience adaptation remain future work.
+
 Updated: 2026-09-26
 
 Repository: https://github.com/RyanC786/Fight-Hub-App
