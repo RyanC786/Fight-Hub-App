@@ -45,7 +45,40 @@ const FightTraining = (() => {
     ['ankle','Ankle circles','Mobility','Chair','Foundation','Mobility','Seated ankle movement through a comfortable range.'],
     ['shoulder-roll','Shoulder rolls','Mobility','None','Foundation','Mobility','Gentle shoulder movement that can form part of a movement break.']
   ];
-  const exercises = rows.map(([id,name,body,equipment,level,pattern,description]) => ({id,name,body,equipment,level,pattern,description,status:'Editorial draft'}));
+  rows.push(
+    ['burpee','Burpee','Full body','Bodyweight','Advanced','Jump','A standing-to-floor movement returning to a jump. Requires clear floor space and controlled landings.'],
+    ['step-burpee','Step-back burpee — no jump','Full body','Bodyweight','Intermediate','Control','Step each foot back and forward through a supported plank position, returning to standing without a jump.'],
+    ['star-jacks','Star jumps / jumping jacks','Cardio','Bodyweight','Intermediate','Jump','Repeated out-and-in jumps with arm movement. Allow clear space overhead and beside you.'],
+    ['step-jacks','Step jacks — no jump','Cardio','Bodyweight','Foundation','Steady','Alternate side steps with arm raises while keeping one foot on the floor.'],
+    ['high-knees','High knees','Cardio','Bodyweight','Intermediate','Jump','Running on the spot with alternating raised knees. Choose marching for a non-jumping option.'],
+    ['tuck-jump','Tuck jump / knee jump','Full body','Bodyweight','Advanced','Jump','A jump bringing the knees upward, followed by a controlled landing. An advanced option, not a beginner default.'],
+    ['squat-jump','Squat jump','Quads','Bodyweight','Advanced','Jump','A squat followed by a jump and controlled landing. Bodyweight squats are the non-jumping alternative.'],
+    ['heel-digs','Alternating heel digs','Cardio','Bodyweight','Foundation','Steady','Alternate forward heel taps while standing, with optional arm movement.'],
+    ['side-steps','Side steps','Cardio','Bodyweight','Foundation','Steady','Step sideways and bring the other foot alongside without jumping.'],
+    ['butt-kicks','Jogging heel flicks','Cardio','Bodyweight','Intermediate','Jump','Jog in place with alternating heels moving behind you. Standing hamstring curls avoid the jogging impact.'],
+    ['standing-curl','Standing hamstring curl','Hamstrings','Chair','Foundation','Curl','Bend one knee to bring the heel behind you, using a stable chair for balance if needed.'],
+    ['mountain-climber','Mountain climbers','Core','Bodyweight','Intermediate','Control','From a high plank, alternate bringing a knee forward while controlling the trunk.'],
+    ['slow-climber','Slow mountain climbers','Core','Bodyweight','Intermediate','Control','A deliberately slower knee-drive variation from a high plank; still loads wrists and shoulders.'],
+    ['reverse-lunge','Reverse lunge','Quads','Bodyweight','Intermediate','Lunge','Step back into a staggered position and return to standing, alternating sides.'],
+    ['lateral-lunge','Lateral lunge','Quads','Bodyweight','Intermediate','Lunge','Step to the side and bend that leg while keeping the other leg longer.'],
+    ['wall-sit','Wall sit','Quads','Wall','Intermediate','Hold','A supported static squat position with the back against a clear, solid wall.'],
+    ['kneeling-press','Kneeling press-up','Chest','Bodyweight','Foundation','Press','A floor press-up supported on the knees rather than the toes.'],
+    ['plank-tap','Plank shoulder taps','Core','Bodyweight','Intermediate','Control','From a high plank, alternate briefly touching the opposite shoulder.'],
+    ['heel-taps','Supine heel taps','Core','Bodyweight','Foundation','Control','Lying on the back with bent legs raised, lower one heel towards the floor at a time.'],
+    ['clamshell','Side-lying clamshell','Glutes','Bodyweight','Foundation','Control','Lying on one side with bent knees, open the upper knee while keeping the feet together.'],
+    ['side-lying-raise','Side-lying leg raise','Glutes','Bodyweight','Foundation','Raise','Raise and lower the upper leg while lying on your side.'],
+    ['bridge-march','Glute bridge march','Glutes','Bodyweight','Intermediate','Control','Alternate lifting a foot from a bridge position while controlling the pelvis.'],
+    ['prone-w','Prone W raise','Back','Bodyweight','Intermediate','Raise','Lying face down, gently lift the arms in a W shape without forcing the lower back.'],
+    ['wall-slide','Wall arm slides','Shoulders','Wall','Foundation','Mobility','Move the arms along a clear wall through a comfortable range.'],
+    ['backpack-squat','Backpack front-held squat','Quads','Backpack','Intermediate','Squat','Hold a securely closed backpack close to the torso during a squat. Use a manageable load with no loose or sharp contents.'],
+    ['backpack-row','Backpack bent-over row','Back','Backpack','Intermediate','Pull','Row a securely closed backpack with a controlled hip hinge. Check handles and stitching; use a manageable load.'],
+    ['backpack-hinge','Backpack hip hinge','Hamstrings','Backpack','Intermediate','Hinge','Hold a securely closed backpack close to the body during a hip hinge. Keep contents secure and use a manageable load.'],
+    ['bottle-curl','Water-bottle curl','Arms','Water bottles','Foundation','Curl','Use matched, sealed non-glass water bottles as light resistance for curls. Keep a secure grip.'],
+    ['bottle-raise','Water-bottle lateral raise','Shoulders','Water bottles','Intermediate','Raise','Raise matched, sealed non-glass bottles to the sides using light, controlled resistance.'],
+    ['bottle-carry','Water-bottle carry','Full body','Water bottles','Foundation','Carry','Carry sealed non-glass bottles along a clear, level indoor route with a secure grip.']
+  );
+  const alternatives={'burpee':'step-burpee','star-jacks':'step-jacks','high-knees':'march','tuck-jump':'march','squat-jump':'squat','butt-kicks':'standing-curl'};
+  const exercises = rows.map(([id,name,body,equipment,level,pattern,description]) => ({id,name,body,equipment,level,pattern,description,status:'Editorial draft',home:['Bodyweight','None','Chair','Wall','Backpack','Water bottles','Resistance band'].includes(equipment),impact:pattern==='Jump'?'Jumping':'No jumping',alternative:alternatives[id]||null}));
   const templates = [
     ['home-start','Home foundations','Full body','Home',false,['chair-rise','wall-press','bridge','bird-dog'],'An introduction to the session-building experience.'],
     ['upper-home','Upper-body basics','Upper body','Home',false,['wall-press','band-row','band-curl'],'Pressing and pulling exercise ideas for home.'],
@@ -58,10 +91,15 @@ const FightTraining = (() => {
     ['lower-gym','Lower-body strength','Lower body','Gym',true,['goblet','rdl','leg-curl','calf'],'A lower-body session canvas for gym equipment.'],
     ['conditioning','Conditioning mix','Conditioning','Gym',true,['bike','carry','rower'],'General conditioning options, not a fight-camp prescription.'],
     ['db-full','Dumbbell selection','Full body','Home',true,['goblet','floor-press','rdl','biceps-curl'],'Build a session around available dumbbells.'],
-    ['recovery','Easy movement','Mobility','Home',false,['walk','ankle','shoulder-roll'],'A movement selection for a quieter day.']
+    ['recovery','Easy movement','Mobility','Home',false,['walk','ankle','shoulder-roll'],'A movement selection for a quieter day.'],
+    ['home-cardio','Living-room cardio','Cardio','Home',false,['step-jacks','heel-digs','side-steps','march'],'A no-jumping cardio selection for indoor space.'],
+    ['home-bodyweight','Bodyweight selection','Full body','Home',false,['squat','kneeling-press','bridge','bird-dog'],'Home options without weights or machines.'],
+    ['home-resistance','Household resistance','Full body','Home',false,['backpack-squat','backpack-row','bottle-curl','bottle-carry'],'Backpack and sealed-bottle options; inspect equipment and keep loads manageable.'],
+    ['home-impact','Jumping options','Conditioning','Home',false,['star-jacks','high-knees','burpee'],'An experienced-user selection with jumping and clear-space requirements. Non-jumping alternatives are linked in the library.'],
+    ['home-floor','Floor-based control','Core','Home',false,['dead-bug','heel-taps','clamshell','bridge'],'A small-space selection with no jumping.']
   ].map(([id,name,focus,setting,premium,ids,description])=>({id,name,focus,setting,premium,ids,description}));
-  function filter({query='',body='All',equipment='All',level='All',favorites=null}={}) {
-    return exercises.filter(e=>(body==='All'||e.body===body)&&(equipment==='All'||e.equipment===equipment)&&(level==='All'||e.level===level)&&(!favorites||favorites.includes(e.id))&&`${e.name} ${e.body} ${e.pattern}`.toLowerCase().includes(query.toLowerCase().trim()));
+  function filter({query='',body='All',equipment='All',level='All',favorites=null,homeOnly=false,impact='All'}={}) {
+    return exercises.filter(e=>(!homeOnly||e.home)&&(impact==='All'||e.impact===impact)&&(body==='All'||e.body===body)&&(equipment==='All'||e.equipment===equipment)&&(level==='All'||e.level===level)&&(!favorites||favorites.includes(e.id))&&`${e.name} ${e.body} ${e.pattern}`.toLowerCase().includes(query.toLowerCase().trim()));
   }
   return {exercises,templates,filter};
 })();

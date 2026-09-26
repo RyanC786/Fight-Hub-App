@@ -4,8 +4,8 @@ Updated: 2026-09-26. Status: interactive prototype, not a production training se
 
 ## What works now
 
-- 42 exercise entries with original short descriptions, 12 body-area categories, equipment and experience filters, search and saved favourites.
-- 12 session selections: six free and six premium-demo templates. Each lists its equipment and constituent exercises before selection.
+- 72 exercise entries with original short descriptions, 12 body-area categories, equipment and experience filters, search and saved favourites.
+- 17 session selections: eleven free and six premium-demo templates. Each lists its equipment and constituent exercises before selection.
 - Exercise detail views and a custom session builder with naming, duplicate prevention, removal and reordering.
 - A session log with optional actual sets, repetitions and minutes; completion checkboxes, pause/resume and partial saving.
 - A resumable in-page draft, local history with recorded work, complete/partial distinction, and a two-step local-history clearing action.
@@ -58,3 +58,15 @@ Remaining: real-device tests, full keyboard/accessibility audit, failure/storage
 5. Introduce authenticated saved plans, reliable session recovery and payment-backed entitlements.
 
 Do not add automatic exercise progression, nutrition prescriptions or fight-readiness scoring merely to increase feature count.
+
+## Home-library expansion
+
+Added 30 entries covering burpees, star jumps/jumping jacks, high knees, tuck jumps, no-jump variations, lunges, floor exercises and household resistance. Five new free selections cover living-room cardio, bodyweight training, household resistance, jumping options and floor-based control.
+
+The Home basics filter selects bodyweight/no-equipment, chair, wall, band, backpack and bottle entries. It is not an exhaustive filter for a fully equipped home gym. The separate No jumping filter describes impact mechanics, not exercise difficulty or medical suitability. Every jumping entry links to a non-jumping alternative. Advanced tuck jumps and burpees are labelled; neither is a beginner default. “Knee jumps” was interpreted as tuck jumps, with high knees also provided.
+
+Household resistance uses manageable, securely closed backpacks and sealed non-glass bottles. Support is stable and clear; no door-hung towel rows, furniture jumps or intentionally slippery-floor drills are suggested. These additions remain original editorial drafts requiring review, without prescribed repetitions, duration or load.
+
+Additional references inspected: [NHS home workouts](https://www.nhs.uk/better-health/get-active/home-workout-videos/) and [NASM exercise library](https://www.nasm.org/workout-exercise-guidance). These do not validate the catalogue or its draft selections.
+
+Verification: four Node tests passed, including home/no-jumping intersections and alternative integrity. Browser checks verified home filtering, the no-jumping burpee result and the burpee detail link to its alternative.
