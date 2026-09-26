@@ -2,9 +2,11 @@
 
 Status: interactive planning prototype, not the production app.
 
-Open [prototype/index.html](../prototype/index.html) in a browser. It is a standalone file with no dependencies, external fonts, tracking, network calls or account connection. State lasts only while the page is open. Reset preview clears it.
+Open [prototype/index.html](../prototype/index.html) in a browser. It uses a companion glass.css stylesheet, with no external libraries, fonts, tracking or account connection. State lasts only while the page is open. Reset preview clears it.
 
 ## Design direction
+
+2026-09-26 visual revision: owner requested an Apple-like frosted-glass feel. The preview now uses translucent blurred cards, softly coloured blue/lilac backgrounds, rounded controls and a floating glass navigation bar. System typography adapts to the device. This is an inspired visual treatment, not a claim of native Apple UI parity. The separate `prototype/glass.css` layer includes opaque fallbacks and reduced-transparency/contrast preferences. Keep this stylesheet alongside the HTML when opening the preview.
 
 Audience: adults interested in combat sports who want to follow sports and organise home/gym fitness. The preview's job is to make the proposed first-week journey tangible.
 
