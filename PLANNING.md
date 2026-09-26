@@ -132,3 +132,4 @@ Keep this plan current as decisions are made. Record proposals separately from c
 - 2026-09-26: Added a [clickable mobile layout preview](prototype/index.html) and [design notes](docs/LAYOUT-NOTES.md). All content and state are demonstration-only; no production services are connected.
 - Next: review the layouts and inspect the existing website before selecting the implementation stack. Existing-platform inspection and training-content sourcing/review remain open dependencies.
 - 2026-09-26: Owner requested a frosted-glass app aesthetic. Added translucent panels, soft blue/lilac surfaces and floating navigation to the prototype, preserving the existing demonstration flows.
+- 2026-09-26: Owner supplied the Fight Hub logo. Integrated the logo locally and revised the glass palette to red, charcoal and silver to match its visual identity.

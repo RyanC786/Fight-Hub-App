@@ -6,6 +6,12 @@ Open [prototype/index.html](../prototype/index.html) in a browser. It uses a com
 
 ## Design direction
 
+Current branding revision: the owner supplied the Fight Hub logo, now stored at `prototype/assets/fight-hub-logo.png` and displayed with descriptive alt text. Its red, black and metallic silver appearance replaces the earlier blue/lilac direction with smoky dark glass, silver text and red action highlights. Colours are visual interpretations, not official sampled brand specifications. The updated header and welcome screen were visually checked in the browser.
+
+Logo source supplied by owner: https://ik.imagekit.io/connectai/A2D2E56B-497E-452C-BC48-B4CE82E67454__1_-removebg-preview.png?updatedAt=1790271367390
+
+The blue palette described below records the original exploration and is superseded by this branding revision.
+
 2026-09-26 visual revision: owner requested an Apple-like frosted-glass feel. The preview now uses translucent blurred cards, softly coloured blue/lilac backgrounds, rounded controls and a floating glass navigation bar. System typography adapts to the device. This is an inspired visual treatment, not a claim of native Apple UI parity. The separate `prototype/glass.css` layer includes opaque fallbacks and reduced-transparency/contrast preferences. Keep this stylesheet alongside the HTML when opening the preview.
 
 Audience: adults interested in combat sports who want to follow sports and organise home/gym fitness. The preview's job is to make the proposed first-week journey tangible.
