@@ -82,7 +82,10 @@ const ExerciseContent = (() => {
  'quad-stretch':['Lie on your side with legs aligned and head supported.','Bend the upper knee and hold the top of that foot if reachable; gently ease the heel backward, then switch sides.','Keep hips stacked and do not force the foot closer.','Reduce the bend; skip if reaching the foot is awkward.'],
  'chest-stretch':['Stand tall with arms slightly out to the sides and palms facing forward.','Gently open your arms a little behind you and hold a comfortable position.','Keep shoulders down and avoid arching your lower back.','Lower your arms and reduce the opening.'],
  'glute-stretch':['Lie on your back with knees bent and place one ankle across the opposite thigh.','Support behind that thigh and bring it gently toward you; change sides.','Keep the crossed knee relaxed and do not press it down.','Leave the supporting foot on the floor.'],
- 'upper-back-stretch':['Stand or sit tall and bring hands together in front of your chest.','Reach forward gently and allow your upper back to widen.','Relax your shoulders and breathe normally.','Reach less far.']
+ 'upper-back-stretch':['Stand or sit tall and bring hands together in front of your chest.','Reach forward gently and allow your upper back to widen.','Relax your shoulders and breathe normally.','Reach less far.'],
+ 'hip-flexor-stretch':['Kneel on a padded surface with one foot forward and its knee above the ankle. Keep your torso upright.','Gently tuck your pelvis and shift slightly forward until a mild stretch is felt at the front of the rear hip; release and switch sides.','Avoid arching the lower back or pushing into knee discomfort.','Use a smaller shift or skip kneeling if it is uncomfortable.'],
+ 'butterfly-stretch':['Sit tall with soles together and feet a comfortable distance from your hips. Hold your ankles lightly.','Let your knees relax outward under their own weight, maintaining easy breathing.','Never push your knees down with hands, elbows or a partner.','Move your feet farther away and stay upright; skip if your hips or knees hurt.'],
+ 'half-split':['From half-kneeling on a padded surface, move your hips back and lengthen the front leg with its heel down and knee softly bent.','Rest hands on the floor beside you if comfortably reachable, then hinge forward slightly from your hips; release and switch sides.','Keep hips facing forward. Do not slide farther, lock the knee or force your hands to the floor.','Use the lying hamstring stretch instead if balance or reaching the floor is difficult.']
  };
  function get(id){const r=rows[id];return r?{steps:r.slice(0,2),cue:r[2],easy:r[3]}:null;}
  function target(e,level='Starter'){
@@ -94,6 +97,8 @@ const ExerciseContent = (() => {
   return level==='Starter'?'Starting example: 1–2 sets of 6–8 controlled reps (each side where relevant), resting 60–90 seconds.':level==='Build'?'Build-up example: 2 sets of 8–12 controlled reps (each side where relevant), resting 60–120 seconds.':'Experienced example: 3 sets of 8–12 controlled reps (each side where relevant), resting 90–120 seconds or longer if needed.';
  }
  const progression='Start with a manageable version or light load and finish with a few good repetitions still possible. When the same work feels controlled over two sessions, try 1–2 extra reps within the range. Once the top of the range is comfortable, consider a small load increase and return to fewer reps. Change one variable at a time; reduce it if technique deteriorates.';
- return {get,target,progression,ids:Object.keys(rows)};
+ const flexibilityProgression='Repeat a gentle, comfortable range with steady breathing and control. Do not add weight, force depth or increase a stretch simply because you completed a session. Reduce the range for discomfort; stop for pain or joint pinching. Full splits are optional and deeper work needs qualified instruction.';
+ const progressionFor=e=>['Stretch','Mobility'].includes(e.pattern)?flexibilityProgression:progression;
+ return {get,target,progression,flexibilityProgression,progressionFor,ids:Object.keys(rows)};
 })();
 if(typeof module!=='undefined')module.exports=ExerciseContent;

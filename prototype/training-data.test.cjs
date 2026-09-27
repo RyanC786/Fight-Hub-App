@@ -3,7 +3,7 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const data=require('./training-data.js');
 test('catalogue identifiers are unique and session references resolve',()=>{
- assert.equal(new Set(data.exercises.map(e=>e.id)).size,82);
+ assert.equal(new Set(data.exercises.map(e=>e.id)).size,85);
  assert.equal(data.templates.length,17);
  for(const t of data.templates){assert.ok(t.ids.length);for(const id of t.ids)assert.ok(data.exercises.some(e=>e.id===id),`${t.id}: ${id}`);}
 });

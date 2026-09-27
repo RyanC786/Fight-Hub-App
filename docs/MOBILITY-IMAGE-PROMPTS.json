@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in ChatGPT image generation",
+  "images": [
+    {
+      "id": "hip-flexor-stretch",
+      "asset": "prototype/assets/movements/hip-flexor-stretch-realistic.png",
+      "prompt": "Scientific educational exercise illustration for Fight Hub. Realistic adult in plain red sports shirt, charcoal joggers, white trainers, charcoal studio with soft light. Landscape 3:2. One adult shown full-body in profile, half kneeling on padded mat. Rear knee directly below hip on mat, front foot flat, front knee 90 degrees above ankle. Torso upright and ribs over pelvis, hands on front thigh. Small gentle forward shift with pelvis tucked, no arched back. Show one accurate comfortable held position, entire body uncropped and normal anatomy. No text, logos or arrows. This image accompanies written beginner instructions, avoid extreme flexibility."
+    },
+    {
+      "id": "butterfly-stretch",
+      "asset": "prototype/assets/movements/butterfly-stretch-realistic.png",
+      "prompt": "Scientific educational exercise illustration for Fight Hub. Realistic adult in plain red sports shirt, charcoal joggers, white trainers, charcoal studio with soft light. Landscape 3:2. One adult seated upright on padded mat, front three-quarter view. Soles of feet together at a comfortable distance from hips, knees naturally raised outward, not forced flat. Hands lightly holding ankles. Elbows stay clear of knees, long comfortable back. Show one accurate comfortable held position, entire body uncropped and normal anatomy. No text, logos or arrows. This image accompanies written beginner instructions, avoid extreme flexibility."
+    },
+    {
+      "id": "half-split",
+      "asset": "prototype/assets/movements/half-split-realistic.png",
+      "prompt": "Scientific educational exercise illustration for Fight Hub. Realistic adult in plain red sports shirt, charcoal joggers, white trainers, charcoal studio with soft light. Landscape 3:2. One adult in a shallow half-split hamstring stretch, side profile. Rear knee padded on mat with hip above it, front heel forward on floor with toes up and front knee softly bent. Hips facing forward and modest hip hinge, long back. Fingertips resting on floor on either side of front leg, no locked knee, no full split. Show one accurate comfortable held position, entire body uncropped and normal anatomy. No text, logos or arrows. This image accompanies written beginner instructions, avoid extreme flexibility."
+    }
+  ],
+  "review": "Draft illustrations visually checked; professional technique approval pending."
+}

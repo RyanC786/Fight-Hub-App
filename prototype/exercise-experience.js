@@ -10,15 +10,16 @@ render=function(){beforeExperience();
   screen.querySelector('.movement-image')?.remove();
   const overview=screen.querySelector('.card.feature');
   overview.innerHTML=`<h3>How to do it</h3><p>${ex(training.selected).description}</p>`;
-  overview.insertAdjacentHTML('afterend',`${pick('workload-level','Starting workload examples',['Starter','Build','Hard'],workloadLevel)}${movementInstructions(training.selected)}<details><summary>Repetitions, weight and progression</summary><p>${ExerciseContent.progression}</p><p>Choose a weight that lets you use the full comfortable movement without swinging. There is no fixed starting kilogram amount for everyone.</p></details>`);
+  const stretching=['Stretch','Mobility'].includes(ex(training.selected).pattern);
+  overview.insertAdjacentHTML('afterend',`${stretching?'':pick('workload-level','Starting workload examples',['Starter','Build','Hard'],workloadLevel)}${movementInstructions(training.selected)}<details><summary>How to progress</summary><p>${ExerciseContent.progressionFor(ex(training.selected))}</p></details>`);
  }
  if(state.page==='session'&&training.active){const a=training.active;a.phase??='warmup';
   if(a.phase!=='main'){screen.innerHTML=preparationPage(a.phase,'custom');return;}
   screen.querySelectorAll('[data-log="sets"]').forEach((input,i)=>{const card=input.closest('.card'),id=a.entries[i].id;card.querySelector('h3').insertAdjacentHTML('afterend',`<details><summary>Instructions, image and starting reps</summary>${movementInstructions(id)}</details>`);
-   const fields=card.querySelector('.log-fields');fields.insertAdjacentHTML('beforeend',`<label>Load per weight (kg)<input type="number" data-log="load" data-index="${i}" min="0" max="1000" step="0.1" value="${escapeText(a.entries[i].load||'')}"></label>`);
+   const fields=card.querySelector('.log-fields');if(['Dumbbells','Dumbbells + bench','Cable machine','Gym machine','Backpack','Water bottles'].includes(ex(id).equipment))fields.insertAdjacentHTML('beforeend',`<label>Load per weight (kg)<input type="number" data-log="load" data-index="${i}" min="0" max="1000" step="0.1" value="${escapeText(a.entries[i].load||'')}"></label>`);
   });
   const finish=screen.querySelector('[data-training="save-log"]');finish.removeAttribute('data-training');finish.dataset.experience='cooldown';finish.dataset.kind='custom';finish.textContent='Finish with cooldown / save';
-  screen.insertAdjacentHTML('afterbegin',`${pick('workload-level','Workload examples',['Starter','Build','Hard'],workloadLevel)}<details><summary>How to progress</summary><p>${ExerciseContent.progression}</p></details>`);
+  screen.insertAdjacentHTML('afterbegin',`${pick('workload-level','Workload examples',['Starter','Build','Hard'],workloadLevel)}<details><summary>How to progress</summary><p>${a.entries.some(x=>ex(x.id).pattern==='Stretch')?ExerciseContent.flexibilityProgression:ExerciseContent.progression}</p></details>`);
  }
  if(state.page==='guided-session'&&guide.active){const a=guide.active;a.phase??='warmup';
   if(a.phase!=='main'){screen.innerHTML=preparationPage(a.phase,'guided');return;}

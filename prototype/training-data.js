@@ -89,6 +89,11 @@ const FightTraining = (() => {
     ['glute-stretch','Lying figure-four stretch','Mobility','Bodyweight','Foundation','Stretch','Rest one ankle across the opposite thigh and draw the supported thigh toward you.'],
     ['upper-back-stretch','Upper-back reach','Mobility','None','Foundation','Stretch','Reach the hands forward with relaxed shoulders and gently widen the upper back.']
   );
+  rows.push(
+    ['hip-flexor-stretch','Half-kneeling hip-flexor stretch','Mobility','Bodyweight','Foundation','Stretch','A gentle split-stance hip stretch with the rear knee on a padded surface.'],
+    ['butterfly-stretch','Seated butterfly stretch','Mobility','Bodyweight','Foundation','Stretch','Sit with soles together and allow the knees to relax without pressing them down.'],
+    ['half-split','Half-split hamstring preparation','Mobility','Bodyweight','Intermediate','Stretch','From kneeling, lengthen one leg forward with a soft knee and gently hinge at the hips. This is preparation, not a full split.']
+  );
   const alternatives={'burpee':'step-burpee','star-jacks':'step-jacks','high-knees':'march','tuck-jump':'march','squat-jump':'squat','butt-kicks':'standing-curl','squat-thrust':'step-burpee'};
   const exercises = rows.map(([id,name,body,equipment,level,pattern,description]) => ({id,name,body,equipment,level,pattern,description,status:'Editorial draft',home:['Bodyweight','None','Chair','Wall','Backpack','Water bottles','Resistance band'].includes(equipment),impact:pattern==='Jump'?'Jumping':'No jumping',alternative:alternatives[id]||null}));
   const templates = [

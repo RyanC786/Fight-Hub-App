@@ -37,3 +37,5 @@ Create one landscape educational fitness illustration for Fight Hub with exactly
 ## Expanded library — 27 September 2026
 
 Generated using the built-in ChatGPT image tool. The [new image manifest](EXERCISE-IMAGE-MANIFEST.json) records the exact final prompts and repository paths for 73 additional published images. Together with the eight original illustrations, coverage is 81 of 82 exercises. Seated leg curl remains withheld for correction. All assets are stored in prototype/assets/movements; original generated files were preserved. Professional technique review and mobile asset optimization remain production work.
+
+The martial-arts mobility extension adds three images; exact prompts and paths are in [MOBILITY-IMAGE-PROMPTS.json](MOBILITY-IMAGE-PROMPTS.json). Current coverage is 84 of 85 catalogue entries.
