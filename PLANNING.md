@@ -1,5 +1,7 @@
 # Fight Hub App — Product Plan
 
+2026-09-27: completed the previously blocked GitHub backup of guided training and replaced the eight guided stick-figure diagrams with richer ChatGPT-generated exercise illustrations. The images remain draft instructional content pending technique review.
+
 Latest shift: guided planning now leads the prototype, with equipment/body-focus matching, a dated seven-day schedule and eight draft movement diagrams. [Guided-training notes](docs/GUIDED-TRAINING.md) distinguish implemented interactions from the still-unreviewed programme content. Goal, time and experience adaptation remain future work.
 
 Updated: 2026-09-26

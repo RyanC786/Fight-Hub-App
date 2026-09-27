@@ -12,6 +12,8 @@ Guided sessions show one exercise at a time, its schematic, short instructions, 
 
 ## Illustrations
 
+2026-09-27 update: all eight guided movements now use individually generated realistic PNG illustrations, with two movement positions and Fight Hub's red/charcoal styling. Both cards and enlarged dialogs load these local assets. The original SVG files are retained as earlier design sources. Images were generated using the built-in ChatGPT image tool and visually checked for exercise identity, pose sequence and rendering issues; this is not qualified technique approval. The interface labels them AI-generated and pending technique review. See [generation prompts](IMAGE-PROMPTS.md).
+
 Eight original SVG diagrams cover sit-to-stand, wall press-up, supported calf raise, sideways leg raise, bottle/dumbbell curls, wall arm slides and shoulder rolls. Each offers start/movement positions and an enlarge dialog. These are draft schematics, not photographs, videos or validated anatomical demonstrations. The other library entries remain without imagery; no unrelated image is substituted.
 
 Simple strength steps and example counts reference [NHS strength exercises](https://www.nhs.uk/live-well/exercise/strength-exercises/). No NHS images were copied. The reference does not endorse Fight Hub's assembled sessions or validate our drawings. Shoulder mobility descriptions are original drafts and have no prescribed dosage. A shoulder-only selection is explicitly mobility-focused, not a complete shoulder-strength programme.
