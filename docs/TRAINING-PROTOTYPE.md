@@ -78,3 +78,7 @@ Added adjustable work/recovery intervals (5–180 seconds), 1–10 rounds, no-ju
 HIIT concerns intensity and recovery, not simply jumping or running a timer. Reference: [ACSM HIIT discussion](https://acsm.org/high-intensity-interval-training-fitness/). These draft selections are not validated programmes.
 
 Seven Node tests passed, including timing boundaries, duration and invalid settings. Browser checks confirmed timer start and pause. Run `node --test prototype/interval-model.test.cjs prototype/training-data.test.cjs`.
+
+## 27 September update
+
+The catalogue now contains 82 movements. See [conditioning expansion](CONDITIONING-EXPANSION.md) for 25/30/40-minute HIIT sessions, difficulty settings, warm-up/cooldown guides, movement-specific instructions, workload examples and load logging. Earlier counts and timer descriptions above describe the preceding milestone.

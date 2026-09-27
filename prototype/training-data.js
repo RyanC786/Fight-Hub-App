@@ -77,7 +77,19 @@ const FightTraining = (() => {
     ['bottle-raise','Water-bottle lateral raise','Shoulders','Water bottles','Intermediate','Raise','Raise matched, sealed non-glass bottles to the sides using light, controlled resistance.'],
     ['bottle-carry','Water-bottle carry','Full body','Water bottles','Foundation','Carry','Carry sealed non-glass bottles along a clear, level indoor route with a secure grip.']
   );
-  const alternatives={'burpee':'step-burpee','star-jacks':'step-jacks','high-knees':'march','tuck-jump':'march','squat-jump':'squat','butt-kicks':'standing-curl'};
+  rows.push(
+    ['squat-thrust','Squat thrust','Full body','Bodyweight','Advanced','Jump','From a crouch, hop the feet back to a high plank and in again. No standing jump or press-up.'],
+    ['hand-release-press','Hand-release press-up','Chest','Bodyweight','Advanced','Press','Lower to the floor, briefly lift the hands, replace them and press the body up together.'],
+    ['bear-crawl','Bear crawl','Full body','Bodyweight','Advanced','Control','Travel slowly on hands and toes with bent knees hovering above the floor.'],
+    ['plank-up-down','Plank up-down','Core','Bodyweight','Advanced','Control','Move between forearm and high plank, alternating the leading arm.'],
+    ['calf-stretch','Standing calf stretch','Mobility','Wall','Foundation','Stretch','A gentle staggered-stance stretch with a wall for balance.'],
+    ['hamstring-stretch','Lying hamstring stretch','Mobility','Bodyweight','Foundation','Stretch','Support the back of one thigh while lying down and gently straighten that knee.'],
+    ['quad-stretch','Side-lying thigh stretch','Mobility','Bodyweight','Foundation','Stretch','Lie on one side and gently bring the upper heel toward the buttock.'],
+    ['chest-stretch','Standing chest opening','Mobility','None','Foundation','Stretch','Open the arms gently out and slightly back with relaxed shoulders.'],
+    ['glute-stretch','Lying figure-four stretch','Mobility','Bodyweight','Foundation','Stretch','Rest one ankle across the opposite thigh and draw the supported thigh toward you.'],
+    ['upper-back-stretch','Upper-back reach','Mobility','None','Foundation','Stretch','Reach the hands forward with relaxed shoulders and gently widen the upper back.']
+  );
+  const alternatives={'burpee':'step-burpee','star-jacks':'step-jacks','high-knees':'march','tuck-jump':'march','squat-jump':'squat','butt-kicks':'standing-curl','squat-thrust':'step-burpee'};
   const exercises = rows.map(([id,name,body,equipment,level,pattern,description]) => ({id,name,body,equipment,level,pattern,description,status:'Editorial draft',home:['Bodyweight','None','Chair','Wall','Backpack','Water bottles','Resistance band'].includes(equipment),impact:pattern==='Jump'?'Jumping':'No jumping',alternative:alternatives[id]||null}));
   const templates = [
     ['home-start','Home foundations','Full body','Home',false,['chair-rise','wall-press','bridge','bird-dog'],'An introduction to the session-building experience.'],

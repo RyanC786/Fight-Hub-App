@@ -33,3 +33,7 @@ Create one landscape educational fitness illustration for Fight Hub with exactly
 ## shoulder-roll
 
 Create one landscape educational fitness illustration for Fight Hub with exactly two side-by-side poses of the same adult woman in red athletic T-shirt, charcoal joggers and white trainers. SHOULDER ROLLS. Two front three-quarter full-body views of an adult standing tall, arms hanging relaxed, palms towards thighs. Left: shoulders in neutral position. Right: shoulders gently elevated and moved back, arms remain relaxed (not a biceps curl), head upright. Small curved red arrows above shoulders indicate a gentle circular rolling path. No extreme neck bending. Realistic fully rendered human proportions and features, polished 3D editorial instructional style, charcoal studio, soft lighting, consistent perspective and scale. A small red arrow between scenes. No labels, text, logos, watermarks. Generous margins. Draft movement illustration to be reviewed.
+
+## Expanded library — 27 September 2026
+
+Generated using the built-in ChatGPT image tool. The [new image manifest](EXERCISE-IMAGE-MANIFEST.json) records the exact final prompts and repository paths for 73 additional published images. Together with the eight original illustrations, coverage is 81 of 82 exercises. Seated leg curl remains withheld for correction. All assets are stored in prototype/assets/movements; original generated files were preserved. Professional technique review and mobile asset optimization remain production work.
