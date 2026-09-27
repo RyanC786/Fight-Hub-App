@@ -38,3 +38,7 @@ New exact image prompts and repository asset paths are in [MOBILITY-IMAGE-PROMPT
 ## Verification
 
 Seventeen automated checks cover catalogue references, non-jumping mobility selections, stretch/control mix, instructions, published image files, guided matching and interval timing. Browser checks cover the mobility entry point, building a foundations session, demonstration viewing and the free/premium comparison. No test certifies exercise suitability.
+
+## Superseded membership proposal
+
+The broad free offer above was rejected by the user. [MEMBERSHIP.md](MEMBERSHIP.md) is now authoritative: full mobility collections and splits preparation are Premium, with one introductory routine free.
