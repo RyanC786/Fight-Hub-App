@@ -147,3 +147,5 @@ Keep this plan current as decisions are made. Record proposals separately from c
 - 27 September: added martial-arts mobility and splits-preparation foundations; proposed keeping basic instructions and mobility free, with reviewed programmes, class-aware scheduling and progress insights as paid value. See [mobility and membership plan](docs/MARTIAL-ARTS-MOBILITY.md). Prices and production subscriptions remain undecided.
 
 - Approved revised membership: free is a limited sample (12 exercises, 3 fixed workouts, introductory mobility, one repeatable guided sample). Full library, HIIT, flexibility collections, custom builder and weekly planning are Premium. This supersedes earlier broad-free proposals. See [current membership rules](docs/MEMBERSHIP.md).
+
+- 28 September: routine-first dashboard and three-day weekly planning replace the confusing repeated-session entry flow. Push/pull/legs and full-body options have dated, distinct sessions and exercise previews before warm-up. HIIT exercise details now return to their origin. See [weekly routine](docs/WEEKLY-ROUTINE.md).
