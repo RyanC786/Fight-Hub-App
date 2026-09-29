@@ -43,7 +43,7 @@ Planned, not implemented: reviewed multi-week programmes, richer scheduling, com
 
 ## Validation
 
-Run `node --test prototype/training-data.test.cjs`. Checks cover catalogue uniqueness, all template references, combined filters, empty favourites and script syntax.
+Run `node --test app/training-data.test.cjs`. Checks cover catalogue uniqueness, all template references, combined filters, empty favourites and script syntax.
 
 Browser walkthrough verified search â†’ exercise details â†’ builder â†’ session log; free and premium-template routing; enabling demo access; saving entered sets/repetitions; complete versus partial history; persistence after reload; and clearing agent-created test logs. An input-event bug found during the walkthrough was fixed and entered values were rechecked. The training home was visually inspected with fixed navigation.
 
@@ -77,7 +77,7 @@ Added adjustable work/recovery intervals (5–180 seconds), 1–10 rounds, no-ju
 
 HIIT concerns intensity and recovery, not simply jumping or running a timer. Reference: [ACSM HIIT discussion](https://acsm.org/high-intensity-interval-training-fitness/). These draft selections are not validated programmes.
 
-Seven Node tests passed, including timing boundaries, duration and invalid settings. Browser checks confirmed timer start and pause. Run `node --test prototype/interval-model.test.cjs prototype/training-data.test.cjs`.
+Seven Node tests passed, including timing boundaries, duration and invalid settings. Browser checks confirmed timer start and pause. Run `node --test app/interval-model.test.cjs app/training-data.test.cjs`.
 
 ## 27 September update
 

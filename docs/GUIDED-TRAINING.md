@@ -31,7 +31,7 @@ Simple strength steps and example counts reference [NHS strength exercises](http
 
 Fourteen Node checks pass across guided matching/dates/diagram availability, catalogue filtering and interval timing. Browser walkthrough covered setup, matching, dates across September/October, enlarged diagram opening/closing, completion, skipping and partial log saving. This does not replace a full accessibility, device or exercise-technique review.
 
-Command: `node --test prototype/guided-model.test.cjs prototype/interval-model.test.cjs prototype/training-data.test.cjs prototype/conditioning-model.test.cjs`.
+Command: `node --test app/guided-model.test.cjs app/interval-model.test.cjs app/training-data.test.cjs app/conditioning-model.test.cjs`.
 
 ## 27 September expansion
 

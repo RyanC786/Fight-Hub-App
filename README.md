@@ -11,18 +11,18 @@ Planning repository for an international, adults-only combat-sports and fitness 
 
 Start with **Plan my training** for equipment/focus matching, a dated week and guided sessions. See [guided training scope and limitations](docs/GUIDED-TRAINING.md).
 
-Open [the mobile preview](prototype/index.html) in a browser to explore setup, Today, the weekly plan, a sample workout and the weekly review. See [layout notes and limitations](docs/LAYOUT-NOTES.md).
+Open [the app](app/index.html) in a browser (or the published version at https://fighthub-swart.vercel.app/app/) to explore setup, Today, the weekly plan, a sample workout and the weekly review. See [layout notes and limitations](docs/LAYOUT-NOTES.md).
 
 The expanded **Train** area includes 85 exercise entries with instructions, easier options and workload examples, 17 draft sessions, filters, a custom builder, local workout history and a premium demo. Custom and guided sessions include warm-up and cooldown guides; custom logs support sets, repetitions and weight.
 
-**HIIT** includes 25, 30 and 40 minute sessions, with home, military-inspired and quiet circuits and Starter, Build and Hard settings. Total time includes six minutes of preparation and five minutes of cooldown. See [conditioning scope, sources and next priorities](docs/CONDITIONING-EXPANSION.md) and [training features](docs/TRAINING-PROTOTYPE.md). Keep the whole `prototype` folder together; its HTML loads local stylesheets, scripts and assets.
+**HIIT** includes 25, 30 and 40 minute sessions, with home, military-inspired and quiet circuits and Starter, Build and Hard settings. Total time includes six minutes of preparation and five minutes of cooldown. See [conditioning scope, sources and next priorities](docs/CONDITIONING-EXPANSION.md) and [training features](docs/TRAINING-PROTOTYPE.md). Keep the whole `app` folder together; its HTML loads local stylesheets, scripts and assets.
 
 Run the 23 automated checks with:
 
 The library includes 84 realistic AI-generated illustrations with tap-to-enlarge viewing. The seated leg-curl image is withheld because generated roller placement was misleading. All 85 movements have written instructions. Images and exercise content require professional review before launch. See [image prompts](docs/IMAGE-PROMPTS.md) and the [new image manifest](docs/EXERCISE-IMAGE-MANIFEST.json).
 
 ```sh
-node --test prototype/*.test.cjs
+node --test app/*.test.cjs
 ```
 
 The project is in discovery and planning with a standalone interface prototype. These documents distinguish confirmed decisions from proposals. No production application, production integrations, validated training programmes or launch date are established yet.
