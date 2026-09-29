@@ -5,7 +5,7 @@ Status: 2026-09-29. First release route agreed with the owner: an installable we
 ## Where it lives
 
 - Source: the `app/` folder of this repository.
-- Published: https://fighthub-swart.vercel.app/app/ (served by the FightHub website on Vercel).
+- Published: https://www.fighthub.world/app/ (served by the FightHub website on Vercel).
 - The FightHub repository copies `app/` from here on a schedule (its "Sync training app" workflow), so changes pushed here go live without touching the website code.
 
 ## What makes it an app

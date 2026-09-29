@@ -11,7 +11,7 @@ Planning repository for an international, adults-only combat-sports and fitness 
 
 Start with **Plan my training** for equipment/focus matching, a dated week and guided sessions. See [guided training scope and limitations](docs/GUIDED-TRAINING.md).
 
-Open [the app](app/index.html) in a browser (or the published version at https://fighthub-swart.vercel.app/app/) to explore setup, Today, the weekly plan, a sample workout and the weekly review. See [layout notes and limitations](docs/LAYOUT-NOTES.md).
+Open [the app](app/index.html) in a browser (or the published version at https://www.fighthub.world/app/) to explore setup, Today, the weekly plan, a sample workout and the weekly review. See [layout notes and limitations](docs/LAYOUT-NOTES.md).
 
 The expanded **Train** area includes 85 exercise entries with instructions, easier options and workload examples, 17 draft sessions, filters, a custom builder, local workout history and a premium demo. Custom and guided sessions include warm-up and cooldown guides; custom logs support sets, repetitions and weight.
 
