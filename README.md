@@ -17,7 +17,7 @@ The expanded **Train** area includes 85 exercise entries with instructions, easi
 
 **HIIT** includes 25, 30 and 40 minute sessions, with home, military-inspired and quiet circuits and Starter, Build and Hard settings. Total time includes six minutes of preparation and five minutes of cooldown. See [conditioning scope, sources and next priorities](docs/CONDITIONING-EXPANSION.md) and [training features](docs/TRAINING-PROTOTYPE.md). Keep the whole `app` folder together; its HTML loads local stylesheets, scripts and assets.
 
-Run the 23 automated checks with:
+Run the automated checks with:
 
 The library includes 84 realistic AI-generated illustrations with tap-to-enlarge viewing. The seated leg-curl image is withheld because generated roller placement was misleading. All 85 movements have written instructions. Images and exercise content require professional review before launch. See [image prompts](docs/IMAGE-PROMPTS.md) and the [new image manifest](docs/EXERCISE-IMAGE-MANIFEST.json).
 
@@ -34,3 +34,5 @@ Explore **Martial arts mobility** for movement control and front/middle-split pr
 The approved [membership rules](docs/MEMBERSHIP.md) give free users a limited starter experience. Full library, HIIT, flexibility collections and the custom builder require Premium demo access. These local UI gates are not production subscription security.
 
 Start from Dashboard → Set up routine for a dated push/pull/legs or full-body week. See [weekly routine and navigation](docs/WEEKLY-ROUTINE.md). Exercise details now return to their source, including HIIT with settings preserved.
+
+**Fight training** covers nine disciplines with round-based sessions, a drill library, a bell timer, a splits programme and fighter roadwork; the **training journal** logs every session for accountability. See [fight training](docs/FIGHT-TRAINING.md).
