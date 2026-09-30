@@ -37,3 +37,7 @@ Batch 3 used the built-in ChatGPT image tool with the saved logo and stance imag
 All three retain Fight Hub chest branding and charcoal studio styling. Cross and hook are deliberately saved outside the movement library and must not be published as instruction. No live app changes were made.
 
 Next: correct entries **8–9** before continuing to rear uppercut, body shots and slips. Seven assets generated for review, two additional drafts need correction, and 63 prompts remain unattempted. Continue in small batches.
+
+## User-requested jab and hook revisions
+
+Entries 7 and 9 now point to orthodox-left-jab-v2.png and orthodox-left-hook-v2.png in source-art/movements, with matching prompt notes. Previous images are superseded. Both use orthodox left-foot-forward poses; hook uses a frontal view to show the bent arm. Technique review remains pending. Cross is still a draft requiring correction. No live app integration in this revision.
