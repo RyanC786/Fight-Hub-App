@@ -28,4 +28,12 @@ Keep red shirts, charcoal joggers/background and the original movement instructi
 
 ## Next batch
 
-Resume at entry **7: Jab (`jab.png`)**, then cross and lead hook. Six of 72 images generated; 66 remain. Continue in document order, in small user-requested batches.
+Batch 3 used the built-in ChatGPT image tool with the saved logo and stance image as visual references. Final prompts are saved on entries 7–9 in the queue.
+
+- [Jab](../source-art/movements/jab.png): generated; technique review pending.
+- [Cross draft](../source-art/review-drafts/cross.png): correction required. Two early attempts used the wrong punching arm. Regeneration fixed the arm but left inconsistent stance/direction between panels.
+- [Lead hook draft](../source-art/review-drafts/lead-hook.png): correction required for forearm plane and foot rotation.
+
+All three retain Fight Hub chest branding and charcoal studio styling. Cross and hook are deliberately saved outside the movement library and must not be published as instruction. No live app changes were made.
+
+Next: correct entries **8–9** before continuing to rear uppercut, body shots and slips. Seven assets generated for review, two additional drafts need correction, and 63 prompts remain unattempted. Continue in small batches.

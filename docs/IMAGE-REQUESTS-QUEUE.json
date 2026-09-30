@@ -68,7 +68,11 @@
     "title": "Jab: `jab.png`",
     "filename": "jab.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: JAB. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: lead arm fully extended straight at shoulder height, palm facing down, rear hand still by the chin, chin tucked behind the lead shoulder. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/jab.png",
+    "batch": 3,
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: JAB. Photorealistic adult fitness demonstrator wearing a red training shirt with the supplied Fight Hub logo printed centrally on the chest, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: lead arm fully extended straight at shoulder height, palm facing down, rear hand still by the chin, chin tucked behind the lead shoulder. Small simple arrow from left to right. Anatomically correct hands and feet. No text outside the supplied shirt logo, no other branding, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 supplies the demonstrator, clothing and studio style only. Reference 2 supplies the exact Fight Hub chest logo. Preserve logo artwork and FIGHT HUB lettering with natural fabric folds. Ensure an orthodox left-foot-forward stance and a LEFT lead-hand jab in the right panel, right fist guarding the chin. Both figures fully visible.",
+    "reviewNote": "Branding and framing checked; technique review pending."
   },
   {
     "number": 8,
@@ -76,7 +80,11 @@
     "title": "Cross: `cross.png`",
     "filename": "cross.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: CROSS. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: rear arm extended straight at shoulder height, rear heel lifted and hips and shoulders turned forward, lead hand guarding the face. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "status": "draft-needs-pose-correction",
+    "asset": "source-art/review-drafts/cross.png",
+    "batch": 3,
+    "generationPrompt": "Create a premium photorealistic Fight Hub boxing RIGHT CROSS instruction image, landscape 3:2. Two separate full-body views of the same athletic adult man with short dark hair, red T-shirt printed with the attached Fight Hub chest logo, charcoal joggers, white trainers, red hand wraps, charcoal grey studio background. Left panel: orthodox left-foot-forward boxing guard. Right panel: correct RIGHT rear-hand straight cross. Camera three-quarter view from the boxer's RIGHT side, so the punching RIGHT arm is nearest the camera and its entire line from right shoulder through elbow to fist is unmistakable. Right shoulder rotates forward, right arm extended straight towards screen LEFT, LEFT hand visibly guarding the face on the far side. Rear RIGHT heel lifted with rotation through hips and shoulders; left foot planted forward. Do not copy a left jab. Natural elbow alignment, no hyperextension, both knees soft. Both figures uncropped with generous margins. Small transition arrow between panels. Only text is FIGHT HUB within the attached logo printed naturally on the red shirt. No watermark.",
+    "reviewNote": "Right-hand punch generated but stance and direction are inconsistent between panels. Must correct before app use."
   },
   {
     "number": 9,
@@ -84,7 +92,11 @@
     "title": "Lead hook: `lead-hook.png`",
     "filename": "lead-hook.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: LEAD HOOK. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: lead arm bent about 90 degrees and level at shoulder height, torso and lead foot pivoted inward, rear hand glued to the chin. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "status": "draft-needs-pose-correction",
+    "asset": "source-art/review-drafts/lead-hook.png",
+    "batch": 3,
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: LEAD HOOK. Photorealistic adult fitness demonstrator wearing a red training shirt with the supplied Fight Hub logo printed centrally on the chest, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: lead arm bent about 90 degrees and level at shoulder height, torso and lead foot pivoted inward, rear hand glued to the chin. Small simple arrow from left to right. Anatomically correct hands and feet. No text outside the supplied shirt logo, no other branding, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 supplies the demonstrator and studio style only. Reference 2 is the exact shirt logo; preserve FIGHT HUB lettering and artwork following natural fabric. Orthodox left-foot-forward stance. Right panel must show a LEFT lead hook with left elbow bent approximately 90 degrees, left upper arm horizontal at shoulder height, right fist guarding the cheek; rotate hips and lead foot together into the hook. No straight punch. Full bodies visible with margins.",
+    "reviewNote": "Hook forearm plane and foot rotation need correction before app use."
   },
   {
     "number": 10,
