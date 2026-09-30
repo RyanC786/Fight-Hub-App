@@ -121,3 +121,8 @@ Entries 57–72 generated with the built-in ChatGPT image tool: active front and
 Entries 57–72 were converted to 1200px mobile WebP files and connected to their existing exercise and Fight Training media records. This also replaces the earlier missing-media treatment for seated leg curl. The app continues to label generated exercise imagery as pending technique review.
 
 Entries 18–56 were subsequently converted and connected to their matching Fight Training drill records. Combined with the earlier entries 5–17 and final entries 57–72, every movement source image in this 72-entry production run is now integrated where a matching app record exists.
+
+## Pictures of women (requested 30 Sep 2026)
+
+- Prompts: `image-requests/WOMEN-PROMPTS.md` (196 requests: the female demonstrator, the 17 new glute and leg exercises in both versions, 9 discipline covers, 85 exercise-library and 67 fight-drill pictures). Regenerate with `node tools/make-women-requests.cjs image-requests`.
+- The app shows `<id>-realistic-f.webp` for members whose picture choice (or profile gender) is female, once the id is listed in `app/female-media.js`; otherwise the original picture.
