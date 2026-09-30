@@ -1,6 +1,6 @@
 # Image names and prompts
 
-Images are named for their exercise; revised images include the stance and version number. Its matching .prompt.md file contains the prompt used and review status. Continue this naming convention for future batches.
+Current images and matching prompt notes. Earlier revisions are superseded; queue filenames retain the original requested names.
 
 | Prompt | Image | Description | Prompt file | Status |
 | --- | --- | --- | --- | --- |
@@ -10,6 +10,8 @@ Images are named for their exercise; revised images include the stance and versi
 | 4 | [judo.png](../source-art/arts/judo.png) | Judo (also replaces the branded Judo photo on the website) | [Prompt 4](../source-art/arts/judo.prompt.md) | Cover artwork |
 | 5 | [stance-footwork.png](../source-art/movements/stance-footwork.png) | Boxing stance and step-drag footwork | [Prompt 5](../source-art/movements/stance-footwork.prompt.md) | Technique review pending |
 | 6 | [pivot.png](../source-art/movements/pivot.png) | Pivot off the line | [Prompt 6](../source-art/movements/pivot.prompt.md) | Technique review pending |
-| 7 | [orthodox-left-jab-v2.png](../source-art/movements/orthodox-left-jab-v2.png) | Orthodox left jab | [Prompt 7](../source-art/movements/orthodox-left-jab-v2.prompt.md) | Technique review pending |
-| 8 | [cross.png](../source-art/review-drafts/cross.png) | Cross | [Prompt 8](../source-art/review-drafts/cross.prompt.md) | DRAFT - pose correction needed |
-| 9 | [orthodox-left-hook-v2.png](../source-art/movements/orthodox-left-hook-v2.png) | Orthodox left hook | [Prompt 9](../source-art/movements/orthodox-left-hook-v2.prompt.md) | Revised; technique review pending |
+| 7 | [orthodox-left-jab-v2.png](../source-art/movements/orthodox-left-jab-v2.png) | Jab | [Prompt 7](../source-art/movements/orthodox-left-jab-v2.prompt.md) | Technique review pending |
+| 8 | [orthodox-right-cross-v2.png](../source-art/movements/orthodox-right-cross-v2.png) | Cross | [Prompt 8](../source-art/movements/orthodox-right-cross-v2.prompt.md) | Technique review pending |
+| 9 | [orthodox-left-hook-v2.png](../source-art/movements/orthodox-left-hook-v2.png) | Lead hook | [Prompt 9](../source-art/movements/orthodox-left-hook-v2.prompt.md) | Technique review pending |
+| 10 | [uppercut.png](../source-art/movements/uppercut.png) | Rear uppercut | [Prompt 10](../source-art/movements/uppercut.prompt.md) | Technique review pending |
+| 11 | [body-shots.png](../source-art/movements/body-shots.png) | Body shots | [Prompt 11](../source-art/movements/body-shots.prompt.md) | Technique review pending |

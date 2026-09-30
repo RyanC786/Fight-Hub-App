@@ -41,3 +41,9 @@ Next: correct entries **8–9** before continuing to rear uppercut, body shots a
 ## User-requested jab and hook revisions
 
 Entries 7 and 9 now point to orthodox-left-jab-v2.png and orthodox-left-hook-v2.png in source-art/movements, with matching prompt notes. Previous images are superseded. Both use orthodox left-foot-forward poses; hook uses a frontal view to show the bent arm. Technique review remains pending. Cross is still a draft requiring correction. No live app integration in this revision.
+
+## Batch 4 — right cross revision, rear uppercut and body shots
+
+Entries 8, 10 and 11 are saved with matching prompt notes. The earlier cross draft is superseded by orthodox-right-cross-v2.png. Uppercut received an arm-position correction in the first panel. All remain pending technique review before instructional use. Built-in ChatGPT image tool used; no live app changes.
+
+Current total: 11 of 72 prompt entries have source images; 61 remain. Next: entry 12 slips, entry 13 roll, entry 14 parry.
