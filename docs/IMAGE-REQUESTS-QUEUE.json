@@ -35,7 +35,10 @@
     "title": "Judo (also replaces the branded Judo photo on the website): `judo.png`",
     "filename": "judo.png",
     "prompt": "Create one cinematic sports photograph for the Fight Hub app: Judo (also replaces the branded Judo photo on the website). Two judoka in white and blue judogi, one throwing the other with a hip throw, unbranded kit. Dramatic low-key lighting with a warm red rim light, dark gym background, realistic adult athletes, sharp focus on the action, landscape 3:2 composition with space at the bottom for a title. No text, no logos, no brand names, no watermarks.",
-    "status": "pending"
+    "status": "generated-and-visually-checked",
+    "asset": "source-art/arts/judo.png",
+    "batch": 2,
+    "generationPrompt": "Create one cinematic sports photograph for the Fight Hub app: Judo (also replaces the branded Judo photo on the website). Two judoka in white and blue judogi, one throwing the other with a hip throw, unbranded kit. Dramatic low-key lighting with a warm red rim light, dark gym background, realistic adult athletes, sharp focus on the action, landscape 3:2 composition with space at the bottom for a title. No text, no logos, no brand names, no watermarks."
   },
   {
     "number": 5,
@@ -43,7 +46,10 @@
     "title": "Boxing stance and step-drag footwork: `stance-footwork.png`",
     "filename": "stance-footwork.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: BOXING STANCE AND STEP-DRAG FOOTWORK. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance: side-on, feet shoulder-width apart, lead foot forward, knees soft, hands up by the cheeks, chin down. RIGHT: the same stance after one step forward: lead foot has stepped, rear foot follows the same distance, stance width unchanged. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/stance-footwork.png",
+    "batch": 2,
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: BOXING STANCE AND STEP-DRAG FOOTWORK. Photorealistic adult fitness demonstrator wearing a red training shirt with the supplied Fight Hub logo printed centrally on the chest, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance: side-on, feet shoulder-width apart, lead foot forward, knees soft, hands up by the cheeks, chin down. RIGHT: the same stance after one step forward: lead foot has stepped, rear foot follows the same distance, stance width unchanged. Small simple arrow from left to right. Anatomically correct hands and feet. No text outside the supplied shirt logo, no other branding, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. The reference image is the exact company logo to print onto the red shirt in both poses. Preserve the FIGHT HUB lettering and red, silver and black artwork; make it look printed on fabric, with natural perspective and folds."
   },
   {
     "number": 6,
@@ -51,7 +57,10 @@
     "title": "Pivot off the line: `pivot.png`",
     "filename": "pivot.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: PIVOT OFF THE LINE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance facing forward, hands up. RIGHT: the same stance after pivoting a quarter-turn on the ball of the lead foot, rear foot swung round, now facing a new angle, hands up; a curved arrow shows the turn. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/pivot.png",
+    "batch": 2,
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: PIVOT OFF THE LINE. Photorealistic adult fitness demonstrator wearing a red training shirt with the supplied Fight Hub logo printed centrally on the chest, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance facing forward, hands up. RIGHT: the same stance after pivoting a quarter-turn on the ball of the lead foot, rear foot swung round, now facing a new angle, hands up; a curved arrow shows the turn. Small simple arrow from left to right. Anatomically correct hands and feet. No text outside the supplied shirt logo, no other branding, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 is the exact company logo to print onto the red shirt in both poses, preserving FIGHT HUB lettering and artwork. Reference 2 is the visual style and demonstrator reference: match this adult, outfit, studio lighting and background, but show the distinct quarter-turn pivot poses requested above, not two identical stances."
   },
   {
     "number": 7,
