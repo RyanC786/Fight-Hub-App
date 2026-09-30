@@ -109,3 +109,9 @@ Entries 41–48 generated with the built-in ChatGPT image tool: technical stand-
 Entries 49–56 generated with the built-in ChatGPT image tool: couch stretch, contract-relax hamstring stretch, contract-relax straddle stretch, supported front-split progression, frog stretch, pancake fold, supported middle-split progression, and Cossack squat. Three-stage progressions show controlled range and Fight Hub branding. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
 
 56 of 72 entries have source images; 16 remain.
+
+## Batches 13–14 — final mobility, running, warm-up and machine sequences
+
+Entries 57–72 generated with the built-in ChatGPT image tool: active front and side leg raises, 90/90 hip switches, easy run, hard interval run, hill sprint, sprint, skipping rope, bounce and guard, jog in place, arm circles, hip openers, front and side leg swings, inchworm walk-out, and seated leg curl. Three-stage sequences use Fight Hub branding throughout. Visual checks completed; detailed technique review remains pending. No live app integration in these batches.
+
+72 of 72 requested entries now have source images. The original image-production queue is complete.

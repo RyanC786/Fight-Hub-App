@@ -60,3 +60,19 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 54 | [pancake.png](../source-art/movements/pancake.png) | Straddle pancake fold | [Prompt 54](../source-art/movements/pancake.prompt.md) | Technique review pending |
 | 55 | [straddle-slide.png](../source-art/movements/straddle-slide.png) | Supported middle-split progression | [Prompt 55](../source-art/movements/straddle-slide.prompt.md) | Technique review pending |
 | 56 | [cossack.png](../source-art/movements/cossack.png) | Cossack squat | [Prompt 56](../source-art/movements/cossack.prompt.md) | Technique review pending |
+| 57 | [active-front-raise.png](../source-art/movements/active-front-raise.png) | Active front leg raise | [Prompt 57](../source-art/movements/active-front-raise.prompt.md) | Technique review pending |
+| 58 | [active-side-raise.png](../source-art/movements/active-side-raise.png) | Active side leg raise | [Prompt 58](../source-art/movements/active-side-raise.prompt.md) | Technique review pending |
+| 59 | [90-90.png](../source-art/movements/90-90.png) | 90/90 hip switches | [Prompt 59](../source-art/movements/90-90.prompt.md) | Technique review pending |
+| 60 | [easy-run.png](../source-art/movements/easy-run.png) | Easy run | [Prompt 60](../source-art/movements/easy-run.prompt.md) | Technique review pending |
+| 61 | [hard-run.png](../source-art/movements/hard-run.png) | Hard interval run | [Prompt 61](../source-art/movements/hard-run.prompt.md) | Technique review pending |
+| 62 | [hill-sprint.png](../source-art/movements/hill-sprint.png) | Hill sprint | [Prompt 62](../source-art/movements/hill-sprint.prompt.md) | Technique review pending |
+| 63 | [sprint.png](../source-art/movements/sprint.png) | Sprint | [Prompt 63](../source-art/movements/sprint.prompt.md) | Technique review pending |
+| 64 | [skip-rope.png](../source-art/movements/skip-rope.png) | Skipping rope | [Prompt 64](../source-art/movements/skip-rope.prompt.md) | Technique review pending |
+| 65 | [shadow-bounce.png](../source-art/movements/shadow-bounce.png) | Bounce and guard | [Prompt 65](../source-art/movements/shadow-bounce.prompt.md) | Technique review pending |
+| 66 | [jog-in-place.png](../source-art/movements/jog-in-place.png) | Jog on the spot | [Prompt 66](../source-art/movements/jog-in-place.prompt.md) | Technique review pending |
+| 67 | [arm-circles.png](../source-art/movements/arm-circles.png) | Arm circles | [Prompt 67](../source-art/movements/arm-circles.prompt.md) | Technique review pending |
+| 68 | [hip-openers.png](../source-art/movements/hip-openers.png) | Hip openers | [Prompt 68](../source-art/movements/hip-openers.prompt.md) | Technique review pending |
+| 69 | [leg-swings-front.png](../source-art/movements/leg-swings-front.png) | Front leg swings | [Prompt 69](../source-art/movements/leg-swings-front.prompt.md) | Technique review pending |
+| 70 | [leg-swings-side.png](../source-art/movements/leg-swings-side.png) | Side leg swings | [Prompt 70](../source-art/movements/leg-swings-side.prompt.md) | Technique review pending |
+| 71 | [inchworm.png](../source-art/movements/inchworm.png) | Inchworm walk-out | [Prompt 71](../source-art/movements/inchworm.prompt.md) | Technique review pending |
+| 72 | [leg-curl.png](../source-art/movements/leg-curl.png) | Seated leg curl machine | [Prompt 72](../source-art/movements/leg-curl.prompt.md) | Technique review pending |

@@ -673,127 +673,191 @@
     "section": "Flexibility and splits (12)",
     "title": "Active front leg raise: `active-front-raise.png`",
     "filename": "active-front-raise.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: ACTIVE FRONT LEG RAISE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, a stable chair, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: side view standing tall holding the chair back. RIGHT: straight leg raised in front to hip height or higher using only the muscles, no swing, torso upright. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and stable dark chair. ACTIVE FRONT LEG RAISE side view. Panel 1 standing tall, left hand lightly on chair, right foot grounded. Panel 2 straight left leg actively rises forward to about 45 degrees without momentum. Panel 3 same straight left leg at comfortable hip height, toes up, torso perfectly upright, standing knee soft. No leaning or swinging.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/active-front-raise.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and stable dark chair. ACTIVE FRONT LEG RAISE side view. Panel 1 standing tall, left hand lightly on chair, right foot grounded. Panel 2 straight left leg actively rises forward to about 45 degrees without momentum. Panel 3 same straight left leg at comfortable hip height, toes up, torso perfectly upright, standing knee soft. No leaning or swinging.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 58,
     "section": "Flexibility and splits (12)",
     "title": "Active side leg raise: `active-side-raise.png`",
     "filename": "active-side-raise.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: ACTIVE SIDE LEG RAISE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, a stable chair, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view standing tall holding the chair back. RIGHT: leg raised straight out to the side as high as possible without leaning, toes pointing forward. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and stable dark chair. ACTIVE SIDE LEG RAISE front view. Panel 1 standing tall, right hand lightly on chair, weight on right leg. Panel 2 straight left leg actively lifts sideways. Panel 3 left leg at comfortable side height, knee and toes facing forward, pelvis level, torso upright. No leaning.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/active-side-raise.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and stable dark chair. ACTIVE SIDE LEG RAISE front view. Panel 1 standing tall, right hand lightly on chair, weight on right leg. Panel 2 straight left leg actively lifts sideways. Panel 3 left leg at comfortable side height, knee and toes facing forward, pelvis level, torso upright. No leaning.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 59,
     "section": "Flexibility and splits (12)",
     "title": "90/90 hip switches: `90-90.png`",
     "filename": "90-90.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: 90/90 HIP SWITCHES. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, on a black training mat, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: sitting upright with both knees bent at 90 degrees, both knees pointing to the left. RIGHT: rotated so both knees point to the right, hands on the mat behind. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. Bare feet on black mat. 90/90 HIP SWITCH sequence, elevated front view. Panel 1 seated upright, both knees bent 90 degrees and dropped toward screen-left, heels staying on mat, fingertips behind. Panel 2 both knees pass through centered tent position, feet remain planted. Panel 3 both knees drop toward screen-right into mirror 90/90, torso upright. Preserve leg identities; no twisting knees under load.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/90-90.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. Bare feet on black mat. 90/90 HIP SWITCH sequence, elevated front view. Panel 1 seated upright, both knees bent 90 degrees and dropped toward screen-left, heels staying on mat, fingertips behind. Panel 2 both knees pass through centered tent position, feet remain planted. Panel 3 both knees drop toward screen-right into mirror 90/90, torso upright. Preserve leg identities; no twisting knees under load.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 60,
     "section": "Running (4)",
     "title": "Easy run: `easy-run.png`",
     "filename": "easy-run.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: EASY RUN. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: relaxed running stride, left foot landing under the body, arms swinging naturally. RIGHT: relaxed running stride on the other leg, upright posture, calm face. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes. EASY RUN gait cycle in profile facing screen right. Panel 1 relaxed left-leg stance with foot landing beneath hips, soft knee, opposite arm forward. Panel 2 float transition with compact recovery. Panel 3 relaxed right-leg stance beneath hips, arms naturally reversed. Upright posture, calm face, no overstride.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/easy-run.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes. EASY RUN gait cycle in profile facing screen right. Panel 1 relaxed left-leg stance with foot landing beneath hips, soft knee, opposite arm forward. Panel 2 float transition with compact recovery. Panel 3 relaxed right-leg stance beneath hips, arms naturally reversed. Upright posture, calm face, no overstride.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 61,
     "section": "Running (4)",
     "title": "Hard interval run: `hard-run.png`",
     "filename": "hard-run.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: HARD INTERVAL RUN. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: fast running stride with a slight forward lean, strong arm drive. RIGHT: the next fast stride on the other leg, knee driving forward. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes. HARD INTERVAL RUN in profile facing screen right. Panel 1 powerful left stance under hips, slight whole-body forward lean, right knee driving. Panel 2 airborne transition with strong opposite arm drive. Panel 3 right stance under hips, left knee driving. Fast controlled running mechanics, elbows about 90 degrees, no exaggerated overstride.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/hard-run.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes. HARD INTERVAL RUN in profile facing screen right. Panel 1 powerful left stance under hips, slight whole-body forward lean, right knee driving. Panel 2 airborne transition with strong opposite arm drive. Panel 3 right stance under hips, left knee driving. Fast controlled running mechanics, elbows about 90 degrees, no exaggerated overstride.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 62,
     "section": "Running (4)",
     "title": "Hill sprint: `hill-sprint.png`",
     "filename": "hill-sprint.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: HILL SPRINT. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, on a dark studio incline ramp, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: sprinting up the incline, leaning slightly into the slope, knee and arm driving. RIGHT: next sprint stride up the incline on the other leg. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes on a clearly visible dark incline ramp rising toward screen right. HILL SPRINT three-stride sequence moving uphill to screen right. Strong ankle-to-head forward lean matching slope, high knee drive, powerful compact arms, each foot lands beneath center of mass. Alternate legs correctly across panels. No downhill posture or flat floor.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/hill-sprint.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White running shoes on a clearly visible dark incline ramp rising toward screen right. HILL SPRINT three-stride sequence moving uphill to screen right. Strong ankle-to-head forward lean matching slope, high knee drive, powerful compact arms, each foot lands beneath center of mass. Alternate legs correctly across panels. No downhill posture or flat floor.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 63,
     "section": "Running (4)",
     "title": "Sprint: `sprint.png`",
     "filename": "sprint.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: SPRINT. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: full sprint stride with high knee drive and powerful arm action. RIGHT: the next full sprint stride on the other leg. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White sprint shoes. MAXIMUM SPRINT gait sequence in profile moving screen right. Panel 1 left leg strikes beneath hips, right knee drives high, opposite arm forward. Panel 2 airborne switch with front-side mechanics. Panel 3 right leg strikes beneath hips, left knee drives, arms reversed. Tall hips, powerful arms, neutral head, no reaching foot far ahead.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/sprint.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White sprint shoes. MAXIMUM SPRINT gait sequence in profile moving screen right. Panel 1 left leg strikes beneath hips, right knee drives high, opposite arm forward. Panel 2 airborne switch with front-side mechanics. Panel 3 right leg strikes beneath hips, left knee drives, arms reversed. Tall hips, powerful arms, neutral head, no reaching foot far ahead.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 64,
     "section": "Warm-up (8)",
     "title": "Skipping rope: `skip-rope.png`",
     "filename": "skip-rope.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: SKIPPING ROPE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: standing tall holding the skipping rope handles at hip height, elbows close to the body, rope resting on the floor behind the heels. RIGHT: mid-jump just off the floor on the balls of the feet, the rope passing beneath the feet, wrists turning the handles. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and one red skipping rope with realistic handles and continuous cord. Panel 1 tall ready stance, handles near hips, elbows close, rope behind heels. Panel 2 rope arcs overhead using wrists, body tall. Panel 3 small two-foot jump on balls of feet as rope passes clearly beneath both shoes; knees soft, jump low. Rope remains continuous in every panel.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/skip-rope.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and one red skipping rope with realistic handles and continuous cord. Panel 1 tall ready stance, handles near hips, elbows close, rope behind heels. Panel 2 rope arcs overhead using wrists, body tall. Panel 3 small two-foot jump on balls of feet as rope passes clearly beneath both shoes; knees soft, jump low. Rope remains continuous in every panel.",
+    "batch": 13,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 65,
     "section": "Warm-up (8)",
     "title": "Bounce and guard: `shadow-bounce.png`",
     "filename": "shadow-bounce.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: BOUNCE AND GUARD. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: boxing stance, side-on, hands up by the cheeks, weight on the balls of the feet. RIGHT: same stance a small bounce forward, throwing a light relaxed jab with the lead hand. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and red hand wraps. ORTHODOX BOXING BOUNCE AND GUARD. Panel 1 left foot and left shoulder forward, hands at cheeks, chin tucked, weight on balls of feet. Panel 2 small controlled bounce forward with stance width preserved, feet never cross. Panel 3 land balanced in same orthodox stance and extend a light LEFT jab straight ahead; right glove stays at cheek, right heel slightly raised. No stance switch.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/shadow-bounce.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and red hand wraps. ORTHODOX BOXING BOUNCE AND GUARD. Panel 1 left foot and left shoulder forward, hands at cheeks, chin tucked, weight on balls of feet. Panel 2 small controlled bounce forward with stance width preserved, feet never cross. Panel 3 land balanced in same orthodox stance and extend a light LEFT jab straight ahead; right glove stays at cheek, right heel slightly raised. No stance switch.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 66,
     "section": "Warm-up (8)",
     "title": "Jog on the spot: `jog-in-place.png`",
     "filename": "jog-in-place.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: JOG ON THE SPOT. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: jogging on the spot, left knee lifted, right arm forward. RIGHT: jogging on the spot, right knee lifted, left arm forward. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers, front three-quarter view. JOG IN PLACE. Panel 1 left knee modestly lifted with right arm forward. Panel 2 both feet briefly close to floor beneath hips. Panel 3 right knee modestly lifted with left arm forward. Upright relaxed posture, compact steps directly under body, no forward travel.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/jog-in-place.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers, front three-quarter view. JOG IN PLACE. Panel 1 left knee modestly lifted with right arm forward. Panel 2 both feet briefly close to floor beneath hips. Panel 3 right knee modestly lifted with left arm forward. Upright relaxed posture, compact steps directly under body, no forward travel.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 67,
     "section": "Warm-up (8)",
     "title": "Arm circles: `arm-circles.png`",
     "filename": "arm-circles.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: ARM CIRCLES. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: standing tall with both straight arms out to the sides at shoulder height. RIGHT: both straight arms raised overhead mid-circle; small curved arrows show the circling direction. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers, front view. ARM CIRCLES. Panel 1 both straight arms extended sideways at shoulder height, palms down. Panel 2 arms travel upward in a smooth symmetrical arc. Panel 3 both arms overhead but shoulders relaxed and ribs down. Add small subtle red curved arrows near each hand showing forward circles. No bent elbows.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/arm-circles.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers, front view. ARM CIRCLES. Panel 1 both straight arms extended sideways at shoulder height, palms down. Panel 2 arms travel upward in a smooth symmetrical arc. Panel 3 both arms overhead but shoulders relaxed and ribs down. Add small subtle red curved arrows near each hand showing forward circles. No bent elbows.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 68,
     "section": "Warm-up (8)",
     "title": "Hip openers (open the gate): `hip-openers.png`",
     "filename": "hip-openers.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: HIP OPENERS (OPEN THE GATE). Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: one hand on a wall, standing on one leg with the other knee lifted to hip height in front. RIGHT: the same lifted knee rotated out to the side at hip height, torso tall. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers beside a plain charcoal wall, left hand lightly supporting balance. OPEN THE GATE with RIGHT leg. Panel 1 stand tall. Panel 2 raise right knee in front to hip height, knee bent 90 degrees. Panel 3 rotate same right thigh outward to the side while pelvis and torso stay facing forward, standing left leg stable. No kicking.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/hip-openers.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers beside a plain charcoal wall, left hand lightly supporting balance. OPEN THE GATE with RIGHT leg. Panel 1 stand tall. Panel 2 raise right knee in front to hip height, knee bent 90 degrees. Panel 3 rotate same right thigh outward to the side while pelvis and torso stay facing forward, standing left leg stable. No kicking.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 69,
     "section": "Warm-up (8)",
     "title": "Front leg swings: `leg-swings-front.png`",
     "filename": "leg-swings-front.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: FRONT LEG SWINGS. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: side view, one hand on a wall, outside leg swung back behind the body. RIGHT: the same straight leg swung forward to waist height, torso upright. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers beside a plain charcoal wall, side view, left hand lightly touching wall. FRONT LEG SWING with outside RIGHT leg. Panel 1 right leg extends moderately behind with torso tall. Panel 2 right foot passes beneath hip. Panel 3 same straight right leg swings forward only to comfortable waist height, pelvis square. Subtle curved red arrow; no back arch or forced high kick.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/leg-swings-front.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers beside a plain charcoal wall, side view, left hand lightly touching wall. FRONT LEG SWING with outside RIGHT leg. Panel 1 right leg extends moderately behind with torso tall. Panel 2 right foot passes beneath hip. Panel 3 same straight right leg swings forward only to comfortable waist height, pelvis square. Subtle curved red arrow; no back arch or forced high kick.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 70,
     "section": "Warm-up (8)",
     "title": "Side leg swings: `leg-swings-side.png`",
     "filename": "leg-swings-side.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: SIDE LEG SWINGS. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view facing a wall with both hands on it, one leg swung across in front of the standing leg. RIGHT: the same leg swung out to the side, hips square to the wall. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers facing a plain charcoal wall, both hands lightly supported. SIDE LEG SWING with RIGHT leg, rear three-quarter view that keeps legs clear. Panel 1 right leg crosses gently in front of standing left leg. Panel 2 right foot passes centered under hip. Panel 3 same right leg swings outward to the right while hips remain square to wall and torso upright. Subtle horizontal red arrow; no torso lean.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/leg-swings-side.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers facing a plain charcoal wall, both hands lightly supported. SIDE LEG SWING with RIGHT leg, rear three-quarter view that keeps legs clear. Panel 1 right leg crosses gently in front of standing left leg. Panel 2 right foot passes centered under hip. Panel 3 same right leg swings outward to the right while hips remain square to wall and torso upright. Subtle horizontal red arrow; no torso lean.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 71,
     "section": "Warm-up (8)",
     "title": "Inchworm walk-out: `inchworm.png`",
     "filename": "inchworm.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: INCHWORM WALK-OUT. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: folded forward with hands on the floor in front of the feet, knees slightly bent. RIGHT: high plank, hands under the shoulders, straight line from head to heels. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers on black mat. INCHWORM WALK-OUT. Panel 1 standing hip hinge with knees softly bent and fingertips on mat just ahead of shoes. Panel 2 hands walk forward while feet remain fixed, hips lowering, show one hand ahead of other. Panel 3 strong high plank, hands below shoulders, straight line head-to-heels, core braced. No sagging hips or push-up.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/inchworm.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers on black mat. INCHWORM WALK-OUT. Panel 1 standing hip hinge with knees softly bent and fingertips on mat just ahead of shoes. Panel 2 hands walk forward while feet remain fixed, hips lowering, show one hand ahead of other. Panel 3 strong high plank, hands below shoulders, straight line head-to-heels, core braced. No sagging hips or push-up.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   },
   {
     "number": 72,
     "section": "Still missing from the original library (1)",
     "title": "Seated leg curl: `leg-curl.png`",
     "filename": "leg-curl.png",
-    "prompt": "Create one premium exercise demonstration image for Fight Hub: SEATED LEG CURL MACHINE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, charcoal studio background. Landscape 3:2 composition, two full-body side views of the same adult seated on a seated leg curl machine, generous margins. LEFT: seated upright, thigh pad resting on top of the thighs just above the knees, lower-leg roller pad resting against the back of the lower legs just above the heels, legs almost straight. RIGHT: knees bent to about 90 degrees, the roller pad still behind the lower legs pushing down and back under the seat. Machine clearly shown with the roller BEHIND the ankles, not on the shins. Small simple arrow from left to right. No words, no logo, no extra limbs. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "prompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and a realistic commercial seated leg-curl machine shown fully in side view. Panel 1 seated upright against backrest, thigh restraint pad above knees, pivot aligned with knees, padded roller BEHIND lower legs just above heels, legs almost straight. Panel 2 curl begins as knees bend and heels travel down and back, roller stays behind lower legs. Panel 3 knees about 90 degrees with roller behind ankles beneath seat, torso fixed, hands holding handles. Machine geometry must remain identical across panels; never put roller on shins.",
+    "status": "generated-awaiting-technique-review",
+    "asset": "source-art/movements/leg-curl.png",
+    "generationPrompt": "Photorealistic premium Fight Hub instructional image, landscape 3:2, three clearly separated panels left to right, dark charcoal studio, same athletic adult man in every panel wearing a fitted red T-shirt clearly printed with the attached Fight Hub logo, charcoal joggers. Full body and feet uncropped, realistic anatomy, professional sports photography, no watermark, no text except shirt logo. White trainers and a realistic commercial seated leg-curl machine shown fully in side view. Panel 1 seated upright against backrest, thigh restraint pad above knees, pivot aligned with knees, padded roller BEHIND lower legs just above heels, legs almost straight. Panel 2 curl begins as knees bend and heels travel down and back, roller stays behind lower legs. Panel 3 knees about 90 degrees with roller behind ankles beneath seat, torso fixed, hands holding handles. Machine geometry must remain identical across panels; never put roller on shins.",
+    "batch": 14,
+    "reviewNote": "Three-stage sequence visually checked. Detailed technique review pending."
   }
 ]
