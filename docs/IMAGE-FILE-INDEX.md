@@ -36,3 +36,11 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 30 | [snap-roundhouse.png](../source-art/movements/snap-roundhouse.png) | Snapping roundhouse — three stages | [Prompt 30](../source-art/movements/snap-roundhouse.prompt.md) | Technique review pending |
 | 31 | [rapid-kicks.png](../source-art/movements/rapid-kicks.png) | Rapid-fire kick and rechamber | [Prompt 31](../source-art/movements/rapid-kicks.prompt.md) | Technique review pending |
 | 32 | [zenkutsu.png](../source-art/movements/zenkutsu.png) | Front stance step-through | [Prompt 32](../source-art/movements/zenkutsu.prompt.md) | Technique review pending |
+| 33 | [oi-zuki.png](../source-art/movements/oi-zuki.png) | Stepping punch | [Prompt 33](../source-art/movements/oi-zuki.prompt.md) | Technique review pending |
+| 34 | [gyaku-zuki.png](../source-art/movements/gyaku-zuki.png) | Reverse punch | [Prompt 34](../source-art/movements/gyaku-zuki.prompt.md) | Technique review pending |
+| 35 | [karate-blocks.png](../source-art/movements/karate-blocks.png) | Karate rising and downward blocks | [Prompt 35](../source-art/movements/karate-blocks.prompt.md) | Technique review pending |
+| 36 | [horse-stance.png](../source-art/movements/horse-stance.png) | Horse stance | [Prompt 36](../source-art/movements/horse-stance.prompt.md) | Technique review pending |
+| 37 | [horse-bow.png](../source-art/movements/horse-bow.png) | Horse stance to bow stance punch | [Prompt 37](../source-art/movements/horse-bow.prompt.md) | Technique review pending |
+| 38 | [sprawl.png](../source-art/movements/sprawl.png) | Wrestling sprawl | [Prompt 38](../source-art/movements/sprawl.prompt.md) | Technique review pending |
+| 39 | [level-change.png](../source-art/movements/level-change.png) | Level change and penetration step | [Prompt 39](../source-art/movements/level-change.prompt.md) | Technique review pending |
+| 40 | [stance-motion.png](../source-art/movements/stance-motion.png) | Wrestling stance and lateral motion | [Prompt 40](../source-art/movements/stance-motion.prompt.md) | Technique review pending |

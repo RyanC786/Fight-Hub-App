@@ -91,3 +91,9 @@ Entries 21 and 22 now point to `switch-kick-v2.png` and `check-v2.png`. The orig
 Entries 28–32 generated with the built-in ChatGPT image tool: front kick, side kick, snapping roundhouse, rapid-fire roundhouse rechamber, and karate front-stance step-through. Three panels are used to show motion stages. Each image has a matching prompt note and Fight Hub shirt branding. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
 
 32 of 72 entries have source images; 40 remain. Next: stepping punch, reverse punch, karate blocks, horse stance, and horse-to-bow-stance punch.
+
+## Batch 10 — eight karate, kung fu and wrestling sequences
+
+Entries 33–40 generated with the built-in ChatGPT image tool: stepping punch, reverse punch, karate blocks, horse stance, horse-to-bow-stance punch, sprawl, level change and penetration step, and wrestling stance motion. Multi-panel sequences show the movement stages, with Fight Hub shirt branding throughout. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
+
+40 of 72 entries have source images; 32 remain. Next: technical stand-up, ground-and-pound on a bag, sit-out, hip escape, bridge and roll, Granby roll, back breakfall, and low lunge.
