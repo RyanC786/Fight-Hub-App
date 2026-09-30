@@ -84,3 +84,10 @@ test('every programme week builds, with known drills and progressive loading', (
 test('fight and journal scripts parse', () => {
   for (const file of ['fight', 'journal', 'core', 'shell']) new Function(fs.readFileSync(`${__dirname}/${file}.js`, 'utf8'));
 });
+
+test('every drill marked as having a picture has its file, and the picture list only names real drills', () => {
+  for (const id of F.media) {
+    assert.ok(F.drills[id], `${id} is not a fight drill`);
+    assert.ok(fs.existsSync(`${__dirname}/assets/movements/${id}-realistic.webp`), `${id}: picture file missing`);
+  }
+});

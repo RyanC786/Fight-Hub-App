@@ -59,3 +59,13 @@ Entries 12–14 generated using the built-in ChatGPT image tool. Saved as slip.p
 Entries 15–17 generated with the built-in ChatGPT image tool. Saved as punch-out.png, bag-work.png and mt-stance.png with matching prompt notes in source-art/movements. Logo and orthodox-right-cross-v2.png used as branding/style references. Visual checks completed; technique review remains pending. No live app changes.
 
 17 of 72 entries have source images; 55 remain. Next: 18 Teep (push kick), 19 Muay thai roundhouse kick, 20 Low kick.
+
+## Integrated into the app — 30 September 2026
+
+Reviewed by Claude and added to the live app (version 13):
+
+- Discipline covers: wrestling, taekwondo, kung fu (`app/assets/arts/*.webp`). The judo cover replaces the branded judo photo on the website (`images/martial-arts/judo.jpg`).
+- Technique pictures (entries 5–17): stance-footwork, pivot, jab (`orthodox-left-jab-v2`), cross (`orthodox-right-cross-v2`), lead-hook (`orthodox-left-hook-v2`), uppercut, body-shots, slip, roll, parry, punch-out, bag-work, mt-stance (`app/assets/movements/<id>-realistic.webp`, 1200px WebP). They show on drill pages, in the drill library and in the round timer.
+- Weakest image: uppercut. The finishing pose does not clearly show the fist rising; worth regenerating.
+
+For the next batches: keep saving originals in `source-art/`. To go live, a picture needs converting to `app/assets/movements/<drill-id>-realistic.webp` and its drill id adding to `media` in `app/fight-data.js` (a check fails if the file is missing).
