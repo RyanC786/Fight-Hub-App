@@ -5,6 +5,18 @@
     "prompt": "Create a character reference photograph for Fight Hub's exercise pictures, matching the lighting and background of the attached picture: an adult female fitness demonstrator with an athletic, realistic build and a natural, professional look, dark hair tied back in a low bun, wearing a plain red short-sleeved fitted training T-shirt, charcoal full-length training leggings and white trainers. Show her full body three times side by side (facing the camera, side-on, and three-quarter view), standing relaxed. Charcoal studio background with a clear ground shadow, landscape 3:2. No words, no logo, no watermark."
   },
   {
+    "file": "coach-male.png",
+    "kind": "coach-portrait",
+    "reference": "source-art/movements/arm-circles.png",
+    "prompt": "Create a square (1:1) head-and-shoulders portrait photograph of the Fight Hub app's coach: the man from the attached original picture (for example source-art/movements/arm-circles.png): same face, hair and red Fight Hub T-shirt with its logo. Friendly, confident and encouraging, looking straight at the camera with a slight smile. Soft studio lighting with a warm red rim light, dark charcoal background, face centred with space around the head so it can be cropped into a circle. Photorealistic, natural skin, no text, no watermark. 1024 x 1024."
+  },
+  {
+    "file": "coach-female.png",
+    "kind": "coach-portrait",
+    "reference": "female-demonstrator.png",
+    "prompt": "Create a square (1:1) head-and-shoulders portrait photograph of the Fight Hub app's coach: the woman from the attached character reference: an adult female fitness demonstrator with an athletic, realistic build and a natural, professional look, dark hair tied back in a low bun, wearing a plain red short-sleeved fitted training T-shirt, charcoal full-length training leggings, with the Fight Hub logo on the T-shirt. Friendly, confident and encouraging, looking straight at the camera with a slight smile. Soft studio lighting with a warm red rim light, dark charcoal background, face centred with space around the head so it can be cropped into a circle. Photorealistic, natural skin, no text, no watermark. 1024 x 1024."
+  },
+  {
     "file": "single-leg-bridge.png",
     "kind": "new-exercise",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: SINGLE-LEG GLUTE BRIDGE. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, on a black training mat, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: side view lying on the back, one foot flat with the knee bent, the other leg lifted with that knee held above the hip, arms flat by the sides. RIGHT: hips lifted high through the planted heel into a straight line from shoulders to knee, the other leg still raised, hips level. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped."

@@ -127,6 +127,22 @@ const refPrompt = `Create a character reference photograph for Fight Hub's exerc
 md += refPrompt + '\n\n';
 requests.push({ file: 'female-demonstrator.png', kind: 'reference', prompt: refPrompt });
 
+// ---- Coach portraits: the round button on the Coach screen ----
+const portraits = [
+  ['coach-male.png', 'Male coach', 'the man from the attached original picture (for example source-art/movements/arm-circles.png): same face, hair and red Fight Hub T-shirt with its logo'],
+  ['coach-female.png', 'Female coach', `the woman from the attached character reference: an ${WOMAN}, with the Fight Hub logo on the T-shirt`]
+];
+const portraitPrompt = who => `Create a square (1:1) head-and-shoulders portrait photograph of the Fight Hub app's coach: ${who}. Friendly, confident and encouraging, looking straight at the camera with a slight smile. Soft studio lighting with a warm red rim light, dark charcoal background, face centred with space around the head so it can be cropped into a circle. Photorealistic, natural skin, no text, no watermark. 1024 x 1024.`;
+md += `## 1b. Coach portraits (2)
+
+The coach's face in the round button on the Coach screen, matching each member's coach voice. Square pictures.
+
+`;
+for (const [file, label, who] of portraits) {
+  md += `### ${label}: \`${file}\`\n\n${portraitPrompt(who)}\n\n`;
+  requests.push({ file, kind: 'coach-portrait', reference: file.includes('female') ? 'female-demonstrator.png' : 'source-art/movements/arm-circles.png', prompt: portraitPrompt(who) });
+}
+
 md += `## 2. New glute and leg exercises: both versions (${fresh.length * 2})
 
 These exercises are new in the app (the "Glutes and legs" routine), so each needs the usual man's picture and the woman's version.
@@ -183,6 +199,7 @@ md += `## For Claude: adding the pictures to the app
 - \`<id>-f.png\` becomes \`app/assets/movements/<id>-realistic-f.webp\` (same size and quality as the originals); add the id to \`FemaleMedia.movements\` in \`app/female-media.js\`.
 - \`<image>-f.png\` (discipline) becomes \`app/assets/arts/<image>-f.webp\`; add it to \`FemaleMedia.arts\`.
 - New exercises: \`<id>.png\` becomes \`app/assets/movements/<id>-realistic.webp\`; add the id to \`app/exercise-media.js\`.
+- Coach portraits: \`coach-<voice>.png\` becomes \`app/assets/coach/coach-<voice>.webp\` (400 x 400); add the voice to \`COACH_PORTRAITS\` in \`app/coach.js\`.
 - Keep the PNGs and prompts in \`source-art/\`. Run \`node --test app/*.test.cjs\`: it checks every listed picture exists.
 `;
 

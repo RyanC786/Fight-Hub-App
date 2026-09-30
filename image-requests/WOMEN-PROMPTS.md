@@ -20,6 +20,18 @@ Attach one existing picture (for example `source-art/movements/hip-thrust-realis
 
 Create a character reference photograph for Fight Hub's exercise pictures, matching the lighting and background of the attached picture: an adult female fitness demonstrator with an athletic, realistic build and a natural, professional look, dark hair tied back in a low bun, wearing a plain red short-sleeved fitted training T-shirt, charcoal full-length training leggings and white trainers. Show her full body three times side by side (facing the camera, side-on, and three-quarter view), standing relaxed. Charcoal studio background with a clear ground shadow, landscape 3:2. No words, no logo, no watermark.
 
+## 1b. Coach portraits (2)
+
+The coach's face in the round button on the Coach screen, matching each member's coach voice. Square pictures.
+
+### Male coach: `coach-male.png`
+
+Create a square (1:1) head-and-shoulders portrait photograph of the Fight Hub app's coach: the man from the attached original picture (for example source-art/movements/arm-circles.png): same face, hair and red Fight Hub T-shirt with its logo. Friendly, confident and encouraging, looking straight at the camera with a slight smile. Soft studio lighting with a warm red rim light, dark charcoal background, face centred with space around the head so it can be cropped into a circle. Photorealistic, natural skin, no text, no watermark. 1024 x 1024.
+
+### Female coach: `coach-female.png`
+
+Create a square (1:1) head-and-shoulders portrait photograph of the Fight Hub app's coach: the woman from the attached character reference: an adult female fitness demonstrator with an athletic, realistic build and a natural, professional look, dark hair tied back in a low bun, wearing a plain red short-sleeved fitted training T-shirt, charcoal full-length training leggings, with the Fight Hub logo on the T-shirt. Friendly, confident and encouraging, looking straight at the camera with a slight smile. Soft studio lighting with a warm red rim light, dark charcoal background, face centred with space around the head so it can be cropped into a circle. Photorealistic, natural skin, no text, no watermark. 1024 x 1024.
+
 ## 2. New glute and leg exercises: both versions (34)
 
 These exercises are new in the app (the "Glutes and legs" routine), so each needs the usual man's picture and the woman's version.
@@ -1199,4 +1211,5 @@ Use the attached original picture as the guide for the two poses and the layout,
 - `<id>-f.png` becomes `app/assets/movements/<id>-realistic-f.webp` (same size and quality as the originals); add the id to `FemaleMedia.movements` in `app/female-media.js`.
 - `<image>-f.png` (discipline) becomes `app/assets/arts/<image>-f.webp`; add it to `FemaleMedia.arts`.
 - New exercises: `<id>.png` becomes `app/assets/movements/<id>-realistic.webp`; add the id to `app/exercise-media.js`.
+- Coach portraits: `coach-<voice>.png` becomes `app/assets/coach/coach-<voice>.webp` (400 x 400); add the voice to `COACH_PORTRAITS` in `app/coach.js`.
 - Keep the PNGs and prompts in `source-art/`. Run `node --test app/*.test.cjs`: it checks every listed picture exists.
