@@ -132,7 +132,11 @@
     "title": "Slips: `slip.png`",
     "filename": "slip.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: SLIPS. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view, boxing stance, head centred, hands up. RIGHT: front view, shoulders rotated and knees slightly bent so the head has moved just outside the lead shoulder, hands still up. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/slip.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: SLIPS. Photorealistic adult fitness demonstrator wearing a red training shirt printed with the supplied Fight Hub chest logo, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view, boxing stance, head centred, hands up. RIGHT: front view, shoulders rotated and knees slightly bent so the head has moved just outside the lead shoulder, hands still up. Small simple arrow from left to right. Anatomically correct hands and feet. No text except the Fight Hub shirt logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 is the exact logo, reference 2 supplies only adult identity, clothing and studio appearance, NOT the straight punch pose. Both poses are orthodox with LEFT foot on viewer RIGHT forward, RIGHT foot viewer LEFT behind, same foot positions in both panels. Show modest slip towards lead left side, head offset slightly to viewer RIGHT with knee flexion and shoulder rotation, spine long, eyes forward, no exaggerated sideways bend. BOTH fists stay next to cheeks. No punching in either pose.",
+    "batch": "5",
+    "reviewNote": "Visually checked for guard, left-foot-forward stance, framing and branding. Technique review pending."
   },
   {
     "number": 13,
@@ -140,7 +144,11 @@
     "title": "Roll (bob and weave): `roll.png`",
     "filename": "roll.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: ROLL (BOB AND WEAVE). Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view, boxing stance, hands up. RIGHT: front view, knees deeply bent and head dipped low to one side under an imaginary hook, eyes forward, hands up; a curved U-shaped arrow shows the path. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/roll.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: ROLL (BOB AND WEAVE). Photorealistic adult fitness demonstrator wearing a red training shirt printed with the supplied Fight Hub chest logo, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: front view, boxing stance, hands up. RIGHT: front view, knees deeply bent and head dipped low to one side under an imaginary hook, eyes forward, hands up; a curved U-shaped arrow shows the path. Small simple arrow from left to right. Anatomically correct hands and feet. No text except the Fight Hub shirt logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 exact logo, reference 2 adult identity/outfit/studio only. Both poses orthodox LEFT foot viewer RIGHT forward and RIGHT foot viewer LEFT behind, feet planted and uncrossed. Right pose lowers head using substantial knee flexion with hips back slightly, chest lifted, neutral neck, eyes forward, BOTH fists at cheeks. Show head below starting shoulder height and offset to one side, with a small U-shaped arrow by head indicating down-across-up roll path. No punch, no kneeling, no folding head down at waist, no extreme squat. Full bodies within frame.",
+    "batch": "5",
+    "reviewNote": "Visually checked for guard, left-foot-forward stance, framing and branding. Technique review pending."
   },
   {
     "number": 14,
@@ -148,7 +156,11 @@
     "title": "Parry and catch: `parry.png`",
     "filename": "parry.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: PARRY AND CATCH. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: rear palm open just in front of the face as if catching a jab, lead hand in guard. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/parry.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Create one premium exercise demonstration image for Fight Hub: PARRY AND CATCH. Photorealistic adult fitness demonstrator wearing a red training shirt printed with the supplied Fight Hub chest logo, charcoal joggers and white trainers, red hand wraps, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: orthodox boxing stance, hands up by the cheeks. RIGHT: rear palm open just in front of the face as if catching a jab, lead hand in guard. Small simple arrow from left to right. Anatomically correct hands and feet. No text except the Fight Hub shirt logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped. Reference 1 exact logo, reference 2 only adult identity, outfit and studio style, not its punch. Both figures front three-quarter view, LEFT foot viewer RIGHT forward, RIGHT foot viewer LEFT behind. Right panel the anatomical RIGHT hand on viewer LEFT is open with palm facing camera, fingers relaxed together, held only a few inches in front of right cheek with elbow bent and tucked; LEFT hand viewer RIGHT stays a closed fist at left cheek. A small compact catch/parry, NOT an extended arm block, no punching, no reaching. Show five fingers naturally on open hand, red wraps leave fingers exposed. Keep stance consistent, full bodies uncropped.",
+    "batch": "5",
+    "reviewNote": "Visually checked for guard, left-foot-forward stance, framing and branding. Technique review pending."
   },
   {
     "number": 15,

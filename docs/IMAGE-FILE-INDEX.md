@@ -15,3 +15,6 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 9 | [orthodox-left-hook-v2.png](../source-art/movements/orthodox-left-hook-v2.png) | Lead hook | [Prompt 9](../source-art/movements/orthodox-left-hook-v2.prompt.md) | Technique review pending |
 | 10 | [uppercut.png](../source-art/movements/uppercut.png) | Rear uppercut | [Prompt 10](../source-art/movements/uppercut.prompt.md) | Technique review pending |
 | 11 | [body-shots.png](../source-art/movements/body-shots.png) | Body shots | [Prompt 11](../source-art/movements/body-shots.prompt.md) | Technique review pending |
+| 12 | [slip.png](../source-art/movements/slip.png) | Slips | [Prompt 12](../source-art/movements/slip.prompt.md) | Technique review pending |
+| 13 | [roll.png](../source-art/movements/roll.png) | Roll (bob and weave) | [Prompt 13](../source-art/movements/roll.prompt.md) | Technique review pending |
+| 14 | [parry.png](../source-art/movements/parry.png) | Parry and catch | [Prompt 14](../source-art/movements/parry.prompt.md) | Technique review pending |

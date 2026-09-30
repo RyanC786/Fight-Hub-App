@@ -47,3 +47,9 @@ Entries 7 and 9 now point to orthodox-left-jab-v2.png and orthodox-left-hook-v2.
 Entries 8, 10 and 11 are saved with matching prompt notes. The earlier cross draft is superseded by orthodox-right-cross-v2.png. Uppercut received an arm-position correction in the first panel. All remain pending technique review before instructional use. Built-in ChatGPT image tool used; no live app changes.
 
 Current total: 11 of 72 prompt entries have source images; 61 remain. Next: entry 12 slips, entry 13 roll, entry 14 parry.
+
+## Batch 5 — slips, roll, parry and catch
+
+Entries 12–14 generated using the built-in ChatGPT image tool. Saved as slip.png, roll.png and parry.png with matching prompt notes in source-art/movements. Logo and orthodox-right-cross-v2.png used as branding/style references. Visual checks completed; technique review remains pending. No live app changes.
+
+14 of 72 entries have source images; 58 remain. Next: 15 punch-out, 16 heavy bag technique, 17 Muay Thai stance.
