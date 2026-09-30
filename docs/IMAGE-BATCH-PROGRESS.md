@@ -69,3 +69,9 @@ Reviewed by Claude and added to the live app (version 13):
 - Weakest image: uppercut. The finishing pose does not clearly show the fist rising; worth regenerating.
 
 For the next batches: keep saving originals in `source-art/`. To go live, a picture needs converting to `app/assets/movements/<drill-id>-realistic.webp` and its drill id adding to `media` in `app/fight-data.js` (a check fails if the file is missing).
+
+## Batch 7 — five Muay Thai movements
+
+Entries 18–22 generated with the built-in ChatGPT image tool: teep, rear roundhouse, rear low kick, switch kick and low-kick check. Each image has a matching prompt note in `source-art/movements`. Fight Hub logo and the existing Muay Thai stance image were used as branding and demonstrator references. Visual checks completed; technique review remains pending. No live app changes.
+
+22 of 72 entries have source images; 50 remain. Next: straight knee, clinch knees, elbows, high roundhouse kick and chamber hold.

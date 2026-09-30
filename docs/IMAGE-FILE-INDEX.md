@@ -21,3 +21,8 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 15 | [punch-out.png](../source-art/movements/punch-out.png) | Punch-out | [Prompt 15](../source-art/movements/punch-out.prompt.md) | Technique review pending |
 | 16 | [bag-work.png](../source-art/movements/bag-work.png) | Heavy bag technique | [Prompt 16](../source-art/movements/bag-work.prompt.md) | Technique review pending |
 | 17 | [mt-stance.png](../source-art/movements/mt-stance.png) | Muay thai stance | [Prompt 17](../source-art/movements/mt-stance.prompt.md) | Technique review pending |
+| 18 | [teep.png](../source-art/movements/teep.png) | Teep (push kick) | [Prompt 18](../source-art/movements/teep.prompt.md) | Technique review pending |
+| 19 | [roundhouse.png](../source-art/movements/roundhouse.png) | Muay Thai roundhouse kick | [Prompt 19](../source-art/movements/roundhouse.prompt.md) | Technique review pending |
+| 20 | [low-kick.png](../source-art/movements/low-kick.png) | Low kick | [Prompt 20](../source-art/movements/low-kick.prompt.md) | Technique review pending |
+| 21 | [switch-kick.png](../source-art/movements/switch-kick.png) | Switch kick | [Prompt 21](../source-art/movements/switch-kick.prompt.md) | Technique review pending |
+| 22 | [check.png](../source-art/movements/check.png) | Checking a low kick | [Prompt 22](../source-art/movements/check.prompt.md) | Technique review pending |
