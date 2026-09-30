@@ -81,3 +81,7 @@ Entries 18–22 generated with the built-in ChatGPT image tool: teep, rear round
 Entries 23–27 generated with the built-in ChatGPT image tool: straight knee, clinch knee on a heavy bag, horizontal/upward elbows, high roundhouse kick and chamber hold. Each source image has a matching prompt note. Fight Hub branding and the existing Muay Thai stance were used as visual references. Visual checks completed; technique review remains pending. No live app integration in this batch.
 
 27 of 72 entries have source images; 45 remain. Next: front kick, side kick, roundhouse snap and rechamber, front stance, and stepping punch.
+
+## User-requested switch kick and check revisions
+
+Entries 21 and 22 now point to `switch-kick-v2.png` and `check-v2.png`. The original switch kick was rejected because an airborne switch flowed into a side-kick-like finish; revision 2 uses a grounded three-panel sequence. The check revision presents a separate upright lead-shin block. Both retain Fight Hub branding and remain pending technique review. Earlier files are marked superseded. No live app integration in this revision.

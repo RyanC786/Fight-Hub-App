@@ -1,5 +1,7 @@
 # Prompt 22: Checking a low kick
 
+SUPERSEDED: use `check-v2.png` and its matching prompt file.
+
 Image: check.png
 
 Built-in ChatGPT image tool. Technique review pending.

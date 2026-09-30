@@ -1,5 +1,7 @@
 # Prompt 21: Switch kick
 
+SUPERSEDED: use `switch-kick-v2.png` and its matching prompt file.
+
 Image: switch-kick.png
 
 Built-in ChatGPT image tool. Technique review pending.

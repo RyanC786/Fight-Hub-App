@@ -24,8 +24,8 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 18 | [teep.png](../source-art/movements/teep.png) | Teep (push kick) | [Prompt 18](../source-art/movements/teep.prompt.md) | Technique review pending |
 | 19 | [roundhouse.png](../source-art/movements/roundhouse.png) | Muay Thai roundhouse kick | [Prompt 19](../source-art/movements/roundhouse.prompt.md) | Technique review pending |
 | 20 | [low-kick.png](../source-art/movements/low-kick.png) | Low kick | [Prompt 20](../source-art/movements/low-kick.prompt.md) | Technique review pending |
-| 21 | [switch-kick.png](../source-art/movements/switch-kick.png) | Switch kick | [Prompt 21](../source-art/movements/switch-kick.prompt.md) | Technique review pending |
-| 22 | [check.png](../source-art/movements/check.png) | Checking a low kick | [Prompt 22](../source-art/movements/check.prompt.md) | Technique review pending |
+| 21 | [switch-kick-v2.png](../source-art/movements/switch-kick-v2.png) | Switch kick — grounded three-stage revision | [Prompt 21 v2](../source-art/movements/switch-kick-v2.prompt.md) | Revised; technique review pending |
+| 22 | [check-v2.png](../source-art/movements/check-v2.png) | Checking a low kick — lead-shin revision | [Prompt 22 v2](../source-art/movements/check-v2.prompt.md) | Revised; technique review pending |
 | 23 | [knee-straight.png](../source-art/movements/knee-straight.png) | Straight knee | [Prompt 23](../source-art/movements/knee-straight.prompt.md) | Technique review pending |
 | 24 | [clinch-knees.png](../source-art/movements/clinch-knees.png) | Clinch knees on the bag | [Prompt 24](../source-art/movements/clinch-knees.prompt.md) | Technique review pending |
 | 25 | [elbows.png](../source-art/movements/elbows.png) | Elbows | [Prompt 25](../source-art/movements/elbows.prompt.md) | Technique review pending |
