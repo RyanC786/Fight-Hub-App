@@ -18,3 +18,6 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 12 | [slip.png](../source-art/movements/slip.png) | Slips | [Prompt 12](../source-art/movements/slip.prompt.md) | Technique review pending |
 | 13 | [roll.png](../source-art/movements/roll.png) | Roll (bob and weave) | [Prompt 13](../source-art/movements/roll.prompt.md) | Technique review pending |
 | 14 | [parry.png](../source-art/movements/parry.png) | Parry and catch | [Prompt 14](../source-art/movements/parry.prompt.md) | Technique review pending |
+| 15 | [punch-out.png](../source-art/movements/punch-out.png) | Punch-out | [Prompt 15](../source-art/movements/punch-out.prompt.md) | Technique review pending |
+| 16 | [bag-work.png](../source-art/movements/bag-work.png) | Heavy bag technique | [Prompt 16](../source-art/movements/bag-work.prompt.md) | Technique review pending |
+| 17 | [mt-stance.png](../source-art/movements/mt-stance.png) | Muay thai stance | [Prompt 17](../source-art/movements/mt-stance.prompt.md) | Technique review pending |

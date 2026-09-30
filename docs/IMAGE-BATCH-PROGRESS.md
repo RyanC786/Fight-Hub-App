@@ -53,3 +53,9 @@ Current total: 11 of 72 prompt entries have source images; 61 remain. Next: entr
 Entries 12–14 generated using the built-in ChatGPT image tool. Saved as slip.png, roll.png and parry.png with matching prompt notes in source-art/movements. Logo and orthodox-right-cross-v2.png used as branding/style references. Visual checks completed; technique review remains pending. No live app changes.
 
 14 of 72 entries have source images; 58 remain. Next: 15 punch-out, 16 heavy bag technique, 17 Muay Thai stance.
+
+## Batch 6 — punch-out, heavy bag technique and Muay Thai stance
+
+Entries 15–17 generated with the built-in ChatGPT image tool. Saved as punch-out.png, bag-work.png and mt-stance.png with matching prompt notes in source-art/movements. Logo and orthodox-right-cross-v2.png used as branding/style references. Visual checks completed; technique review remains pending. No live app changes.
+
+17 of 72 entries have source images; 55 remain. Next: 18 Teep (push kick), 19 Muay thai roundhouse kick, 20 Low kick.
