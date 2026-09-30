@@ -85,3 +85,9 @@ Entries 23–27 generated with the built-in ChatGPT image tool: straight knee, c
 ## User-requested switch kick and check revisions
 
 Entries 21 and 22 now point to `switch-kick-v2.png` and `check-v2.png`. The original switch kick was rejected because an airborne switch flowed into a side-kick-like finish; revision 2 uses a grounded three-panel sequence. The check revision presents a separate upright lead-shin block. Both retain Fight Hub branding and remain pending technique review. Earlier files are marked superseded. No live app integration in this revision.
+
+## Batch 9 — three-stage kick and stance sequences
+
+Entries 28–32 generated with the built-in ChatGPT image tool: front kick, side kick, snapping roundhouse, rapid-fire roundhouse rechamber, and karate front-stance step-through. Three panels are used to show motion stages. Each image has a matching prompt note and Fight Hub shirt branding. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
+
+32 of 72 entries have source images; 40 remain. Next: stepping punch, reverse punch, karate blocks, horse stance, and horse-to-bow-stance punch.

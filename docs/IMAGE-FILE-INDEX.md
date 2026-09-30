@@ -31,3 +31,8 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 25 | [elbows.png](../source-art/movements/elbows.png) | Elbows | [Prompt 25](../source-art/movements/elbows.prompt.md) | Technique review pending |
 | 26 | [high-kick.png](../source-art/movements/high-kick.png) | High roundhouse kick | [Prompt 26](../source-art/movements/high-kick.prompt.md) | Technique review pending |
 | 27 | [chamber-hold.png](../source-art/movements/chamber-hold.png) | Chamber hold | [Prompt 27](../source-art/movements/chamber-hold.prompt.md) | Technique review pending |
+| 28 | [front-kick.png](../source-art/movements/front-kick.png) | Front kick — three stages | [Prompt 28](../source-art/movements/front-kick.prompt.md) | Technique review pending |
+| 29 | [side-kick.png](../source-art/movements/side-kick.png) | Side kick — three stages | [Prompt 29](../source-art/movements/side-kick.prompt.md) | Technique review pending |
+| 30 | [snap-roundhouse.png](../source-art/movements/snap-roundhouse.png) | Snapping roundhouse — three stages | [Prompt 30](../source-art/movements/snap-roundhouse.prompt.md) | Technique review pending |
+| 31 | [rapid-kicks.png](../source-art/movements/rapid-kicks.png) | Rapid-fire kick and rechamber | [Prompt 31](../source-art/movements/rapid-kicks.prompt.md) | Technique review pending |
+| 32 | [zenkutsu.png](../source-art/movements/zenkutsu.png) | Front stance step-through | [Prompt 32](../source-art/movements/zenkutsu.prompt.md) | Technique review pending |

@@ -326,7 +326,11 @@
     "title": "Front kick: `front-kick.png`",
     "filename": "front-kick.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: FRONT KICK. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: knee raised high in front in the chamber. RIGHT: lower leg snapped out at stomach height, striking with the ball of the foot with toes pulled back. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/front-kick.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Same athletic adult man in every panel, red T-shirt printed with attached Fight Hub logo, charcoal joggers, bare feet, dark charcoal studio, photorealistic premium instructional photography. Landscape 3:2. Full body and feet uncropped. No words except shirt logo, no watermark, no extra limbs. THREE PANELS left to right for FRONT KICK. Panel 1: fighting guard, both feet grounded. Panel 2: anatomical LEFT knee lifted high directly in front, thigh near horizontal, lower leg folded under thigh, heel drawn back, ankle flexed, toes pulled back, fists guarding. Panel 3: SAME LEFT leg snaps lower leg forward at stomach height, knee not locked, ball of foot presented with toes pulled back; torso upright, RIGHT supporting foot planted, hands guard. Small arrows between panels. Clearly show guard → chamber → extension. Not a knee strike, side kick or roundhouse.",
+    "batch": 9,
+    "reviewNote": "Three-stage movement sequence visually checked for consistent demonstrator, framing and Fight Hub branding. Technique review pending."
   },
   {
     "number": 29,
@@ -334,7 +338,11 @@
     "title": "Side kick: `side-kick.png`",
     "filename": "side-kick.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: SIDE KICK. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: knee drawn up across the body with the foot chambered. RIGHT: leg driven out sideways at waist height, heel leading, heel, hip and shoulder in one line, supporting foot turned away. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/side-kick.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Same athletic adult man in every panel, red T-shirt printed with attached Fight Hub logo, charcoal joggers, bare feet, dark charcoal studio, photorealistic premium instructional photography. Landscape 3:2. Full body and feet uncropped. No words except shirt logo, no watermark, no extra limbs. THREE PANELS left to right for SIDE KICK. Athlete faces screen right in side profile. Panel 1: fighting stance. Panel 2: anatomical LEFT kicking knee drawn tightly across torso toward chest, left heel tucked near seat, hip turned sideways; RIGHT supporting foot begins pivot. Panel 3: SAME LEFT leg drives straight sideways at waist height, HEEL leading toward screen right, toes pulled slightly down, blade/heel presented, heel-hip-shoulder aligned. RIGHT supporting foot rotated away about 180 degrees. Hands guarding, torso leaning only slightly. Small arrows. Clearly chamber → heel-led side kick, not roundhouse.",
+    "batch": 9,
+    "reviewNote": "Three-stage movement sequence visually checked for consistent demonstrator, framing and Fight Hub branding. Technique review pending."
   },
   {
     "number": 30,
@@ -342,7 +350,11 @@
     "title": "Snapping roundhouse kick: `snap-roundhouse.png`",
     "filename": "snap-roundhouse.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: SNAPPING ROUNDHOUSE KICK. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: knee lifted to the side, chambered and pointing at the target. RIGHT: lower leg snapped round at body height striking with the instep, supporting foot pivoted. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/snap-roundhouse.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Same athletic adult man in every panel, red T-shirt printed with attached Fight Hub logo, charcoal joggers, bare feet, dark charcoal studio, photorealistic premium instructional photography. Landscape 3:2. Full body and feet uncropped. No words except shirt logo, no watermark, no extra limbs. THREE PANELS left to right for SNAPPING ROUNDHOUSE KICK. Panel 1: guard with LEFT foot forward. Panel 2: anatomical LEFT knee lifted outward to the side and pointing at a body-height target, thigh horizontal, lower leg folded tightly back, supporting RIGHT foot starting to pivot. Panel 3: from SAME chamber, only LEFT lower leg snaps horizontally outward, striking with instep; knee remains slightly bent, supporting RIGHT foot pivoted. Hips stay more upright than Muay Thai kick. Add small arrows. Avoid side kick: heel must not lead or face target. Avoid straight-leg swing.",
+    "batch": 9,
+    "reviewNote": "Three-stage movement sequence visually checked for consistent demonstrator, framing and Fight Hub branding. Technique review pending."
   },
   {
     "number": 31,
@@ -350,7 +362,11 @@
     "title": "Rapid-fire kicks: `rapid-kicks.png`",
     "filename": "rapid-kicks.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: RAPID-FIRE KICKS. Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: roundhouse kick extended at body height. RIGHT: the same leg snapped back into the chamber ready to kick again; arrows show out and back. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/rapid-kicks.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Same athletic adult man in every panel, red T-shirt printed with attached Fight Hub logo, charcoal joggers, bare feet, dark charcoal studio, photorealistic premium instructional photography. Landscape 3:2. Full body and feet uncropped. No words except shirt logo, no watermark, no extra limbs. THREE PANELS left to right for RAPID-FIRE ROUNDHOUSE KICKS. Panel 1: anatomical LEFT knee lifted outward at body height in a tight roundhouse chamber, lower leg folded back, RIGHT support foot pivoting. Panel 2: same LEFT lower leg snaps outward to body height, instep as contact surface, knee slightly bent; supporting foot pivoted. Panel 3: SAME LEFT leg immediately retracts to the identical tight chamber from panel 1 without putting foot down, ready to kick again. Add small arrows chamber → kick → rechamber. Keep torso upright and fists guarding. Avoid side-kick heel presentation and avoid changing legs.",
+    "batch": 9,
+    "reviewNote": "Three-stage movement sequence visually checked for consistent demonstrator, framing and Fight Hub branding. Technique review pending."
   },
   {
     "number": 32,
@@ -358,7 +374,11 @@
     "title": "Front stance (zenkutsu-dachi): `zenkutsu.png`",
     "filename": "zenkutsu.png",
     "prompt": "Create one premium exercise demonstration image for Fight Hub: FRONT STANCE (ZENKUTSU-DACHI). Photorealistic adult fitness demonstrator wearing a plain red training shirt, charcoal joggers and bare feet, charcoal studio background and clear ground shadow. Landscape 3:2 composition, two full-body poses side by side of the same adult, generous margins. LEFT: long low front stance: front knee bent over the toes, back leg almost straight, both heels down, fists at the hips. RIGHT: stepping through: back foot brought in beside the front foot at the same low height. Small simple arrow from left to right. Anatomically correct hands and feet. No words, no logo, no extra limbs, no stick figures. Clear instructional fitness photography, full body uncropped.",
-    "status": "pending"
+    "asset": "source-art/movements/zenkutsu.png",
+    "status": "generated-awaiting-technique-review",
+    "generationPrompt": "Same athletic adult man in every panel, red T-shirt printed with attached Fight Hub logo, charcoal joggers, bare feet, dark charcoal studio, photorealistic premium instructional photography. Landscape 3:2. Full body and feet uncropped. No words except shirt logo, no watermark, no extra limbs. THREE PANELS left to right for KARATE FRONT STANCE STEP-THROUGH (ZENKUTSU-DACHI). Side three-quarter view facing screen right. Panel 1: deep long LEFT front stance, left knee bent above ankle, RIGHT rear leg almost straight, both heels down, hips square forward, torso upright, fists chambered at hips. Panel 2: remain low while RIGHT rear foot slides forward beside LEFT foot, knees still bent, no rising up, fists at hips. Panel 3: RIGHT foot steps through into a new long RIGHT front stance, right knee bent above ankle, LEFT rear leg almost straight, both heels down, same low height. Small floor arrows show rear foot travelling forward. No punch in this image.",
+    "batch": 9,
+    "reviewNote": "Three-stage movement sequence visually checked for consistent demonstrator, framing and Fight Hub branding. Technique review pending."
   },
   {
     "number": 33,
