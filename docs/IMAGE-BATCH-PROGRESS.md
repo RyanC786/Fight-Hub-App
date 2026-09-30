@@ -97,3 +97,9 @@ Entries 28–32 generated with the built-in ChatGPT image tool: front kick, side
 Entries 33–40 generated with the built-in ChatGPT image tool: stepping punch, reverse punch, karate blocks, horse stance, horse-to-bow-stance punch, sprawl, level change and penetration step, and wrestling stance motion. Multi-panel sequences show the movement stages, with Fight Hub shirt branding throughout. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
 
 40 of 72 entries have source images; 32 remain. Next: technical stand-up, ground-and-pound on a bag, sit-out, hip escape, bridge and roll, Granby roll, back breakfall, and low lunge.
+
+## Batch 11 — eight grappling, safety and mobility sequences
+
+Entries 41–48 generated with the built-in ChatGPT image tool: technical stand-up, ground-and-pound on a bag, wrestling sit-out, hip escape, bridge-and-roll, Granby roll, back breakfall, and low-lunge lizard stretch. Three-panel sequences and Fight Hub shirt branding are used throughout. Visual checks completed; detailed technique review remains pending, with special attention required for the Granby roll's head and neck clearance. No live app integration in this batch.
+
+48 of 72 entries have source images; 24 remain. Next: half-kneeling hip-flexor stretch, hamstring stretch, butterfly stretch, frog stretch, seated straddle, front-split progression, side-split progression, and couch stretch.

@@ -44,3 +44,11 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 38 | [sprawl.png](../source-art/movements/sprawl.png) | Wrestling sprawl | [Prompt 38](../source-art/movements/sprawl.prompt.md) | Technique review pending |
 | 39 | [level-change.png](../source-art/movements/level-change.png) | Level change and penetration step | [Prompt 39](../source-art/movements/level-change.prompt.md) | Technique review pending |
 | 40 | [stance-motion.png](../source-art/movements/stance-motion.png) | Wrestling stance and lateral motion | [Prompt 40](../source-art/movements/stance-motion.prompt.md) | Technique review pending |
+| 41 | [technical-standup.png](../source-art/movements/technical-standup.png) | Technical stand-up | [Prompt 41](../source-art/movements/technical-standup.prompt.md) | Technique review pending |
+| 42 | [ground-strikes.png](../source-art/movements/ground-strikes.png) | Ground-and-pound on a bag | [Prompt 42](../source-art/movements/ground-strikes.prompt.md) | Technique review pending |
+| 43 | [sit-out.png](../source-art/movements/sit-out.png) | Wrestling sit-out | [Prompt 43](../source-art/movements/sit-out.prompt.md) | Technique review pending |
+| 44 | [shrimp.png](../source-art/movements/shrimp.png) | Hip escape (shrimp) | [Prompt 44](../source-art/movements/shrimp.prompt.md) | Technique review pending |
+| 45 | [bridge-roll.png](../source-art/movements/bridge-roll.png) | Bridge and roll (upa) | [Prompt 45](../source-art/movements/bridge-roll.prompt.md) | Technique review pending |
+| 46 | [granby-roll.png](../source-art/movements/granby-roll.png) | Granby shoulder roll | [Prompt 46](../source-art/movements/granby-roll.prompt.md) | Technique review pending; check head and neck clearance |
+| 47 | [breakfall.png](../source-art/movements/breakfall.png) | Back breakfall | [Prompt 47](../source-art/movements/breakfall.prompt.md) | Technique review pending |
+| 48 | [lizard.png](../source-art/movements/lizard.png) | Low-lunge lizard stretch | [Prompt 48](../source-art/movements/lizard.prompt.md) | Technique review pending |
