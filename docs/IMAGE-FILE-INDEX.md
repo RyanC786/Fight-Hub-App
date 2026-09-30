@@ -52,3 +52,11 @@ Current images and matching prompt notes. Earlier revisions are superseded; queu
 | 46 | [granby-roll.png](../source-art/movements/granby-roll.png) | Granby shoulder roll | [Prompt 46](../source-art/movements/granby-roll.prompt.md) | Technique review pending; check head and neck clearance |
 | 47 | [breakfall.png](../source-art/movements/breakfall.png) | Back breakfall | [Prompt 47](../source-art/movements/breakfall.prompt.md) | Technique review pending |
 | 48 | [lizard.png](../source-art/movements/lizard.png) | Low-lunge lizard stretch | [Prompt 48](../source-art/movements/lizard.prompt.md) | Technique review pending |
+| 49 | [couch-stretch.png](../source-art/movements/couch-stretch.png) | Couch stretch | [Prompt 49](../source-art/movements/couch-stretch.prompt.md) | Technique review pending |
+| 50 | [pnf-hamstring.png](../source-art/movements/pnf-hamstring.png) | Contract-relax hamstring stretch | [Prompt 50](../source-art/movements/pnf-hamstring.prompt.md) | Technique review pending |
+| 51 | [pnf-adductor.png](../source-art/movements/pnf-adductor.png) | Contract-relax straddle stretch | [Prompt 51](../source-art/movements/pnf-adductor.prompt.md) | Technique review pending |
+| 52 | [front-split-slide.png](../source-art/movements/front-split-slide.png) | Supported front-split progression | [Prompt 52](../source-art/movements/front-split-slide.prompt.md) | Technique review pending |
+| 53 | [frog.png](../source-art/movements/frog.png) | Frog stretch | [Prompt 53](../source-art/movements/frog.prompt.md) | Technique review pending |
+| 54 | [pancake.png](../source-art/movements/pancake.png) | Straddle pancake fold | [Prompt 54](../source-art/movements/pancake.prompt.md) | Technique review pending |
+| 55 | [straddle-slide.png](../source-art/movements/straddle-slide.png) | Supported middle-split progression | [Prompt 55](../source-art/movements/straddle-slide.prompt.md) | Technique review pending |
+| 56 | [cossack.png](../source-art/movements/cossack.png) | Cossack squat | [Prompt 56](../source-art/movements/cossack.prompt.md) | Technique review pending |

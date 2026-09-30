@@ -103,3 +103,9 @@ Entries 33–40 generated with the built-in ChatGPT image tool: stepping punch, 
 Entries 41–48 generated with the built-in ChatGPT image tool: technical stand-up, ground-and-pound on a bag, wrestling sit-out, hip escape, bridge-and-roll, Granby roll, back breakfall, and low-lunge lizard stretch. Three-panel sequences and Fight Hub shirt branding are used throughout. Visual checks completed; detailed technique review remains pending, with special attention required for the Granby roll's head and neck clearance. No live app integration in this batch.
 
 48 of 72 entries have source images; 24 remain. Next: half-kneeling hip-flexor stretch, hamstring stretch, butterfly stretch, frog stretch, seated straddle, front-split progression, side-split progression, and couch stretch.
+
+## Batch 12 — eight flexibility and split-preparation sequences
+
+Entries 49–56 generated with the built-in ChatGPT image tool: couch stretch, contract-relax hamstring stretch, contract-relax straddle stretch, supported front-split progression, frog stretch, pancake fold, supported middle-split progression, and Cossack squat. Three-stage progressions show controlled range and Fight Hub branding. Visual checks completed; detailed technique review remains pending. No live app integration in this batch.
+
+56 of 72 entries have source images; 16 remain.
