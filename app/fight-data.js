@@ -97,7 +97,11 @@ const FightData = (() => {
   // added as the owner's generated images arrive (see image-requests/)
   const media = new Set([
     'stance-footwork', 'pivot', 'jab', 'cross', 'lead-hook', 'uppercut', 'body-shots',
-    'slip', 'roll', 'parry', 'punch-out', 'bag-work', 'mt-stance'
+    'slip', 'roll', 'parry', 'punch-out', 'bag-work', 'mt-stance',
+    'active-front-raise', 'active-side-raise', '90-90',
+    'easy-run', 'hard-run', 'hill-sprint', 'sprint',
+    'skip-rope', 'shadow-bounce', 'jog-in-place', 'arm-circles',
+    'hip-openers', 'leg-swings-front', 'leg-swings-side', 'inchworm'
   ]);
 
   // ---- Disciplines ----

@@ -115,3 +115,7 @@ Entries 49–56 generated with the built-in ChatGPT image tool: couch stretch, c
 Entries 57–72 generated with the built-in ChatGPT image tool: active front and side leg raises, 90/90 hip switches, easy run, hard interval run, hill sprint, sprint, skipping rope, bounce and guard, jog in place, arm circles, hip openers, front and side leg swings, inchworm walk-out, and seated leg curl. Three-stage sequences use Fight Hub branding throughout. Visual checks completed; detailed technique review remains pending. No live app integration in these batches.
 
 72 of 72 requested entries now have source images. The original image-production queue is complete.
+
+## App integration — final 16 assets
+
+Entries 57–72 were converted to 1200px mobile WebP files and connected to their existing exercise and Fight Training media records. This also replaces the earlier missing-media treatment for seated leg curl. The app continues to label generated exercise imagery as pending technique review.
