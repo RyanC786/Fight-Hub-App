@@ -101,7 +101,15 @@ const FightData = (() => {
     'active-front-raise', 'active-side-raise', '90-90',
     'easy-run', 'hard-run', 'hill-sprint', 'sprint',
     'skip-rope', 'shadow-bounce', 'jog-in-place', 'arm-circles',
-    'hip-openers', 'leg-swings-front', 'leg-swings-side', 'inchworm'
+    'hip-openers', 'leg-swings-front', 'leg-swings-side', 'inchworm',
+    'teep', 'roundhouse', 'low-kick', 'switch-kick', 'check', 'knee-straight',
+    'clinch-knees', 'elbows', 'high-kick', 'chamber-hold', 'front-kick', 'side-kick',
+    'snap-roundhouse', 'rapid-kicks', 'zenkutsu', 'oi-zuki', 'gyaku-zuki',
+    'karate-blocks', 'horse-stance', 'horse-bow', 'sprawl', 'level-change',
+    'stance-motion', 'technical-standup', 'ground-strikes', 'sit-out', 'shrimp',
+    'bridge-roll', 'granby-roll', 'breakfall', 'lizard', 'couch-stretch',
+    'pnf-hamstring', 'pnf-adductor', 'front-split-slide', 'frog', 'pancake',
+    'straddle-slide', 'cossack'
   ]);
 
   // ---- Disciplines ----

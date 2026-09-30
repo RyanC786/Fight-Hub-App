@@ -119,3 +119,5 @@ Entries 57–72 generated with the built-in ChatGPT image tool: active front and
 ## App integration — final 16 assets
 
 Entries 57–72 were converted to 1200px mobile WebP files and connected to their existing exercise and Fight Training media records. This also replaces the earlier missing-media treatment for seated leg curl. The app continues to label generated exercise imagery as pending technique review.
+
+Entries 18–56 were subsequently converted and connected to their matching Fight Training drill records. Combined with the earlier entries 5–17 and final entries 57–72, every movement source image in this 72-entry production run is now integrated where a matching app record exists.
