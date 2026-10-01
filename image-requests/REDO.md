@@ -1,27 +1,41 @@
-# Pictures to redo (checked 30 September 2026)
+# Pictures: what's left (checked 1 October 2026)
 
-The first three batches were checked picture by picture. **45 are approved and already in the app**, so please don't remake them. The 12 below show the technique incorrectly. Remake each one with the same file name, using its original prompt from `WOMEN-PROMPTS.md` plus the correction here, and attach the same references as before.
+**So far:** 149 pictures approved and in the app:
+- 122 women's exercise and drill pictures
+- 16 men's pictures for the new exercises (all except the frog pump)
+- 9 discipline covers
+- 2 coach portraits
+
+Please don't remake anything approved.
+
+## 1. Redo (8)
+
+Remake each one with the same file name, using its prompt from `WOMEN-PROMPTS.md` plus the correction here. Attach the same references as before.
 
 | File | What's wrong | What it must show |
 |---|---|---|
-| `b-stance-thrust.png` | Both feet flat side by side, so it's a normal hip thrust. | In **both** poses: one foot flat under its knee doing the work; the other foot clearly further forward with **only its heel** on the floor, toes up. |
-| `b-stance-thrust-f.png` | Same as above. | Same as above. |
-| `frog-pump.png` | A normal glute bridge (knees together, feet apart). | In **both** poses: **soles of the feet pressed together** close to the hips, **knees falling wide open** to the sides. Right: hips lifted a short way. |
+| `frog-pump.png` | Still a normal glute bridge, with the knees together. | **Change the camera:** view from the feet end, looking up the body (or a high three-quarter view), so the frog position is obvious. **Soles of the feet pressed together** close to the hips and **knees falling wide open** to the sides in both poses. Left: hips down. Right: hips lifted a short way. |
 | `frog-pump-f.png` | Same as above. | Same as above. |
-| `pull-through.png` | Left pose faces the cable machine; right pose faces away. | **Facing away** from the machine in both poses, machine on the **same side** in both. Rope on the low pulley passes **between the legs** from behind. Left: hinged, hands between the thighs. Right: standing tall, hands in front of the hips, rope still between the legs. |
-| `pull-through-f.png` | The machine swaps sides between the poses. | Same as above. |
-| `back-extension-f.png` | The start isn't lowered, and the finish leans back past straight. | Left: torso hinged **down towards the floor** from the hips. Right: body in **one straight line** from heels to head, no arch (as in the men's picture). |
-| `fire-hydrant-f.png` | The leg kicks backwards. | Knee stays **bent at 90°** and lifts **out to the side** to hip height; thigh points sideways, foot stays behind the knee (as in the men's picture). |
-| `bridge-march-f.png` | Both halves show the same leg lifted. | **Side by side** like the original. Left: one foot lifted. Right: the **other** foot lifted. Hips high and level in both. |
-| `clamshell-f.png` | The start has almost straight legs, and the halves are stacked. | **Side by side** like the original. Knees bent about 45°, feet together in both. Right: upper knee opened, feet still touching. |
-| `leg-press-f.png` | Both poses have nearly straight legs, with a visible seam between the halves. | Like the original. Left: knees bent to about 90°, platform lowered. Right: legs extended, knees not locked. Same machine in both halves, no seam. |
-| `side-lying-raise-f.png` | The order is reversed (raised leg first), and the halves are stacked. | **Side by side** like the original. Left: legs together. Right: upper leg raised. Arrow from left to right. |
+| `back-extension-f.png` | She and the bench turn round between the two poses. | **Same direction and same camera angle in both poses.** Left: torso hinged down towards the floor. Right: body in one straight line from heels to head. |
+| `fire-hydrant-f.png` | The camera moves from behind her (left pose) to in front of her (right pose). | **Same rear three-quarter camera angle in both poses.** Right: knee bent at 90° and lifted out to the side to hip height. |
+| `bridge-march-f.png` | The same raised-leg pose appears twice. | **Match the original:** left, a normal glute bridge with **both feet on the floor**; right, the same bridge with **one foot lifted**, knee bent, hips level. |
+| `cross-f.png` | She turns sideways and punches to the side of the picture. | **Front view, like the original:** she faces the camera in both poses and the rear hand punches **straight towards the camera**. |
+| `punch-out-f.png` | The same arm is punching in both poses. | Left: **right** fist extended. Right: **left** fist extended. Front view. |
+| `jog-in-place-f.png` | The same knee is lifted in both poses. | Left: **right** knee up. Right: **left** knee up. Front view. |
 
-## Minor, optional
+## 2. Not made yet: women's versions (40)
 
-- `walking-lunge.png` has a light grey vignette around the edges, unlike the others. It's approved as it is; remake only if it's easy.
-- Coach portraits (section 1b): the app now uses crops of the male and female demonstrators. Dedicated portraits would be sharper, but they're optional.
+These are in sections 4 and 5 of `WOMEN-PROMPTS.md`:
 
-## Carry on with
+- **Flexibility:** lizard, couch-stretch, pnf-hamstring, pnf-adductor, front-split-slide, frog, pancake, straddle-slide, cossack, active-front-raise, active-side-raise, 90-90
+- **Running:** easy-run, hard-run, hill-sprint, sprint
+- **Muay Thai:** clinch-knees, elbows, high-kick
+- **Taekwondo, karate and kung fu:** chamber-hold, front-kick, side-kick, snap-roundhouse, rapid-kicks, zenkutsu, oi-zuki, gyaku-zuki, karate-blocks, horse-stance, horse-bow
+- **MMA and wrestling:** sprawl, level-change, stance-motion, technical-standup, ground-strikes, sit-out
+- **BJJ:** shrimp, bridge-roll, granby-roll, breakfall
 
-Section 4 (exercise library) and section 5 (fight drills) in `WOMEN-PROMPTS.md`, skipping anything already approved: bridge, chair-rise, goblet, hip-thrust, lateral-lunge, reverse-lunge, side-leg, split-squat, squat and squat-jump are done.
+## Tips that avoided problems
+
+- Keep the **same camera angle, direction and equipment position** in both poses.
+- Where an exercise alternates sides, show the **other** side in the second pose.
+- Landscape **3:2** please (for example 1536 x 1024). Two pictures arrived as wide banners; they were fixed this time.
