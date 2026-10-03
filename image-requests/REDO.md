@@ -1,31 +1,40 @@
-# Pictures: what's left (checked 2 October 2026)
+# Pictures: what's left (checked 3 October 2026)
 
-Every picture in the app has been re-checked at full size for anatomy (arm and leg count, limb length, joints) and technique. **172 of 179 exercises and drills now have a women's version, and the self-defence cover and drills are in.** Please don't remake anything that isn't listed here.
+Every picture in the app has been checked at full size for anatomy (arm and leg
+count, limb length, joints) and technique.
 
-## 1. Redo (7)
+These went in on 3 October:
+- women's dumbbell bench press;
+- the fire hydrant, men and women;
+- the frog pump, men and women;
+- the men's back extension;
+- the women's chamber hold.
 
-Remake each one with the same file name, using its prompt (`WOMEN-PROMPTS.md`, `GYM-LIFTS-PROMPTS.md`) plus the correction. **Before saving, count arms, legs, hands and equipment, and check limb lengths look normal.**
+**Please don't remake anything that isn't listed here.**
+
+## 1. Redo (2)
+
+Remake each one with the same file name, using its prompt (`GYM-LIFTS-PROMPTS.md`, `WOMEN-PROMPTS.md`) plus the correction. **Before saving, count arms, legs, hands and equipment, and check that both arms come out of the shoulders.**
 
 | File | What's wrong | What it must show |
 |---|---|---|
-| `barbell-bench.png` | His arms are far too long, and both hands are bunched at one end of the bar. | Normal arm length. Hands evenly placed, just wider than the shoulders. The bar over the shoulders at the top and touching the lower chest at the bottom. |
-| `bench-press-f.png` | She holds **three** dumbbells. | **One dumbbell in each hand**, two in total, in both poses. |
-| `leg-curl-f.png` | It shows a leg extension (pad on top of the shins, legs straight in both poses). | A **seated leg curl**: the roller pad **behind** the lower legs just above the heels. Left: legs almost straight. Right: knees bent to about 90°, the pad pushed down and back under the seat. |
-| `fire-hydrant.png` (men) | The leg kicks **backwards**, which is a donkey kick. | Knee stays bent at 90° and lifts **out to the side** to hip height. Use the approved women's picture as the guide. |
-| `frog-pump.png` / `frog-pump-f.png` | Now a seated butterfly stretch with no hip lift. | **Lying flat on the back** (head and shoulders on the floor), soles of the feet together and knees wide open. Left: hips on the floor. Right: **hips lifted high**, knees still open. Camera: high three-quarter view from the side. |
-| `back-extension.png` (men, low priority) | The bench and the man face opposite directions in the two poses. | Same direction and camera angle in both poses. |
+| `barbell-bench.png` (men) | The bar runs along the length of his body instead of across his chest. In the lowered pose his near hand is over his hips. In the raised pose his far arm comes out of his stomach. | **Copy the approved women's version (`barbell-bench-f.png`): the same camera angle and layout.** The bar runs **across** the chest, with both hands directly above the shoulders, just wider than shoulder width. Lowered: the bar touches the lower chest, with elbows under the bar. Raised: arms straight up over the shoulders. Both arms come out of the shoulders. |
+| `leg-curl-f.png` (women) | In the bent-knee pose the roller pad presses on the **front** of her shins, with her feet behind it. That's a leg extension, not a curl. | Keep the straight-leg pose as it is: it's correct, with the pad behind the lower legs just above the heels. In the bent-knee pose the pad stays **behind the heels and lower calves**, pushed down and back under the seat. Her feet are **in front of** the pad and the knees are bent to about 90°. |
 
 ## 2. Waiting on a redo
 
-These women's pictures are approved and go in as soon as the men's version above is fixed: `barbell-bench-f.png`, `fire-hydrant-f.png`.
+`barbell-bench-f.png` (women) is approved. It goes in as soon as the men's version above is fixed.
 
-## 3. Not made yet: women's versions (5)
+## 3. Not made yet: women's versions (4)
 
-`clinch-knees-f.png`, `elbows-f.png`, `high-kick-f.png`, `chamber-hold-f.png`, `front-kick-f.png` (prompts in `WOMEN-PROMPTS.md`, section 5).
+`clinch-knees-f.png`, `elbows-f.png`, `high-kick-f.png` and `front-kick-f.png`. Their prompts are in `WOMEN-PROMPTS.md`, section 5.
 
 ## Common faults to check before saving
 
-- Extra or missing arms, hands or dumbbells; arms or legs unnaturally long.
+- Extra or missing arms, hands or dumbbells.
+- Arms or legs that are unnaturally long, or an arm that doesn't start at the shoulder.
+- A barbell that lies along the body instead of across it.
+- Machine pads on the wrong side of the limb (leg curl: behind the heels; leg extension: on the front of the shins).
 - The camera angle, direction or equipment changing between the two poses.
 - For alternating moves, the other side shown in the second pose.
 - Landscape 3:2 (for example 1536 x 1024).
