@@ -18,3 +18,5 @@ All seven currently listed REDO replacements now have fresh candidates. The five
 App conversion/integration is left for Claude, as permitted in the original request. No app code or WebP files changed in this batch. Review these PNGs before integration, particularly machine contact and torso alignment.
 
 The older ANATOMY-AUDIT concerns are not silently marked resolved: bridge-roll-f, switch-kick-f, running sequence continuity, male Granby and chest-stretch clarity remain review items. The newer REDO.md asks not to remake unlisted assets; this batch follows its explicit replacement list.
+
+User-requested leg-curl revision: first pose now fully extended horizontally with calves above roller; second pose legs in front of rear roller. New candidate awaiting user review; supersedes batch leg-curl candidate.
